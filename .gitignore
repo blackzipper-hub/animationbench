@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+
+.env
+*.local.yaml
+secrets.yaml
+
+outputs/
+results/
+vis_res/
+.DS_Store

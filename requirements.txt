@@ -1,0 +1,9 @@
+dashscope
+requests
+pyyaml
+
+# Optional for Squash and Stretch area analysis:
+numpy
+opencv-python
+pillow
+torch
