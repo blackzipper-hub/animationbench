@@ -1,0 +1,24 @@
+Generate an action-focused video for “Sprocket” emphasizing canonical behavior + expressive facial acting.
+
+Canonical behavior cues to follow:
+- Curious, optimistic, energetic; open inviting posture.
+- Solves tasks via direct physical interaction; uses long flexible tail to grasp/pull/stabilize; playful exploring movement (rolling/jumping).
+- Bright cheerful whimsical vibe; relaxed exploratory pacing; soft even lighting.
+- Tactile respectful interaction with small objects (flowers, rocks, bushes).
+
+Scene & actions (show environment interaction clearly):
+- Whimsical garden scene with a flower, a small rock, and a low lever-like stick.
+- Sprocket hops forward with a light bouncy gait, tail swishing for balance.
+- Uses tail to gently grasp and lift a small object, then sets it down carefully.
+- Uses tail to pull a small lever, then lightly touches flower petals with fingertips.
+- Include a playful little spin and a small jump, but keep actions gentle and curious.
+
+Facial acting:
+- Eyes widen with wonder, mouth opens in a happy gasp, then a big smile; add quick excited blink after the lever moves.
+
+Object Color：
+- flower: bright pink petals with yellow center and green stem
+- small rock: smooth gray stone with white quartz veins
+- low lever-like stick: natural brown wooden stick with dark brown bark texture
+
+

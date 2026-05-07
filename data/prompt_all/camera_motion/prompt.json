@@ -1,0 +1,74 @@
+{
+    "basketball2": [
+        "camera zooms in.",
+        "camera zooms out.",
+        "camera pan left.",
+        "camera pan right.",
+        "camera tilts up.",
+        "camera tilts down.",
+        "static shot (camera fixed)."
+    ],
+    "drawing2": [
+        "camera zooms in.",
+        "camera zooms out.",
+        "camera pan left.",
+        "camera pan right.",
+        "camera tilts up.",
+        "camera tilts down.",
+        "static shot (camera fixed)."
+    ],
+    "experiment2": [
+        "camera zooms in.",
+        "camera zooms out.",
+        "camera pan left.",
+        "camera pan right.",
+        "camera tilts up.",
+        "camera tilts down.",
+        "static shot (camera fixed)."
+    ],
+    "fishing2": [
+        "camera zooms in.",
+        "camera zooms out.",
+        "camera pan left.",
+        "camera pan right.",
+        "camera tilts up.",
+        "camera tilts down.",
+        "static shot (camera fixed)."
+    ],
+    "garden": [
+        "camera zooms in.",
+        "camera zooms out.",
+        "camera pan left.",
+        "camera pan right.",
+        "camera tilts up.",
+        "camera tilts down.",
+        "static shot (camera fixed)."
+    ],
+    "kite2": [
+        "camera zooms in.",
+        "camera zooms out.",
+        "camera pan left.",
+        "camera pan right.",
+        "camera tilts up.",
+        "camera tilts down.",
+        "static shot (camera fixed)."
+    ],
+    "planting2": [
+        "camera zooms in.",
+        "camera zooms out.",
+        "camera pan left.",
+        "camera pan right.",
+        "camera tilts up.",
+        "camera tilts down.",
+        "static shot (camera fixed)."
+    ],
+    "reading2": [
+        "camera zooms in.",
+        "camera zooms out.",
+        "camera pan left.",
+        "camera pan right.",
+        "camera tilts up.",
+        "camera tilts down.",
+        "static shot (camera fixed)."
+    ]
+}

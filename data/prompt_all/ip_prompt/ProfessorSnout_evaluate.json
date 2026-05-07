@@ -1,0 +1,85 @@
+{
+  "ip_profile": {
+    "character_name": "Professor Snout",
+    "canonical_appearance": {
+      "summary": "A stout, anthropomorphic pig character dressed as a detective, featuring a brown fedora with a red band, black-rimmed glasses, a yellow collared shirt, a red and black striped tie, and a brown, tattered vest. He has a prominent pink snout, large ears, and a curly tail.",
+      "details": {
+        "front": [
+          "Does Professor Snout stand facing forward with a confident, slightly smug expression?",
+          "Does he wear a brown fedora with a red band and a small black tuft on top, and large, round black-rimmed glasses revealing wide, expressive white eyes?",
+          "Is his pink snout prominent, and does he have a slight, knowing smile?",
+          "Does he wear a yellow collared shirt, a red and black striped tie, and a brown, tattered vest with two large black buttons?",
+          "Is his left arm bent with a clenched fist, while his right hand holds a thin, dark, pointed object?",
+          "Do his pink pig legs end in small, brown hooves, and is his curly tail visible behind him?"
+        ],
+        "side": [
+          "Does Professor Snout's profile reveal his large, floppy pink ears, the side of his pink snout, and the full length of his black-rimmed glasses?",
+          "Is his head tilted slightly upward with an expression of confident contemplation?",
+          "Does he wear the same fedora, vest, shirt, and tie as in the front view?",
+          "Is his left arm bent at the elbow with a clenched fist, while his right arm is held down by his side?",
+          "Are his pig legs and hooves visible?",
+          "Is his curly tail seen behind him?"
+        ],
+        "back": [
+          "Does Professor Snout wear the same brown fedora, vest, and shirt from behind?",
+          "Is the tattered edge of the brown vest clearly visible?",
+          "Are his large, pink ears prominent on either side of his head, and is the small black tuft on the back of his hat visible?",
+          "Are his pink pig legs seen from behind, ending in small, brown hooves?",
+          "Is his curly tail visible, hanging down between his legs?",
+          "Does the back view maintain the character's distinctive silhouette?"
+        ]
+      }
+    },
+    "canonical_behavior": {
+      "Personality": [
+        "Is Professor Snout confident, intelligent, and self-assured throughout the video?",
+        "Does he carry an air of smug superiority and intellectual prowess?",
+        "Does he often appear to have already solved the mystery?",
+        "Is the character's overall demeanor consistent with being confident and intelligent?",
+        "Does the character maintain a smug and superior presence?",
+        "Combining posture, expression, and demeanor, can Professor Snout effectively convey his confident, intelligent, and self-assured personality?"
+      ],
+      "Action Logic": [
+        "Does Professor Snout approach problems with a methodical and analytical mindset?",
+        "Does he use his pointer to highlight key evidence or illustrate a complex theory?",
+        "Are his movements deliberate and precise?",
+        "Do his actions often involve a sharp turn of the head to survey a scene?",
+        "Are the character's problem-solving methods consistent with the described methodical and analytical approach?",
+        "Is the overall action logic consistent with using analytical thinking and precise movements to solve problems?"
+      ],
+      "Atmosphere/Vibe": [
+        "Is the atmosphere a classic, lighthearted detective mystery with a comedic twist?",
+        "Is the pacing steady and focused?",
+        "Does the atmosphere convey a sense of intellectual satisfaction?",
+        "Does the visual style and environment support the classic detective mystery atmosphere?",
+        "Does the overall atmosphere create a lighthearted and intellectually satisfying feeling?",
+        "Does the combination of pacing, visual style, and environment create the intended classic, lighthearted detective mystery atmosphere?"
+      ],
+      "Signature": [
+        "Does Professor Snout have a slow, deliberate, and slightly waddling gait?",
+        "Does he have a pronounced turn of the head?",
+        "Is the animation style clean and exaggerated, with a focus on expressive eyes and confident posture?",
+        "Are the character's movements consistent with the described slow, deliberate gait with head turns?",
+        "Does the overall animation style emphasize expressive eyes and confident posture?",
+        "Can viewers clearly identify Professor Snout's unique movement signature through his slow, waddling gait and pronounced head turns?"
+      ],
+      "Facial Acting": [
+        "Are Professor Snout's eyes his primary tool for expression?",
+        "Do his eyes widen dramatically to show surprise or excitement?",
+        "Do his eyes narrow to a focused, analytical stare?",
+        "Is his smile subtle and smug, rarely breaking into a full grin?",
+        "Does the character's facial acting remain consistent with the described eye-based expression?",
+        "Can Professor Snout effectively communicate his analytical and smug personality through his expressive eyes?"
+      ],
+      "Environmental Interaction": [
+        "Does Professor Snout interact with objects by holding them with a firm, precise grip?",
+        "Does he often use his pointer to manipulate or point at objects?",
+        "Does he walk through environments with a sense of purpose?",
+        "Do his hooves make soft, deliberate sounds?",
+        "Are the character's interactions with objects consistent with using a firm, precise grip and pointer?",
+        "Does the overall environmental interaction demonstrate Professor Snout's purposeful and precise approach?"
+      ]
+    }
+  }
+}
+

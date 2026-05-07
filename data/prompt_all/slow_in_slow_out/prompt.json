@@ -1,0 +1,20 @@
+{
+    "bird":"The bird flies in a straight line from left to right and then stopped, hovering in the air.",
+    "run":"The man started running from left to right and stopped at the finish line.",
+    "boat":"A small boat drifts quickly from the left bank of the river to the right bank, finally stopping on the right bank.",
+    "boy":"The character wearing a jetpack flies straight from the left side of the screen to the right, then stops and hovers.",
+    "car":"A car starts from the left side of the screen, drives to the right, and finally stops at the end of the road.",
+    "frog":"The frog hops from the stone platform on the left to the lotus leaf on the right, then stops moving.",
+    "rabbit":"A rabbit runs from the left side of the picture to the right side and stops in front of the carrot.",
+    "train":"A train departs from the station on the left and stops at the terminal station on the right.",
+    "softball":"The softball player throws the ball from the left side of the screen to the right side, and the ball lands on the ground.",
+    "bird_mirrored":"The bird flies in a straight line from right to left and then stopped, hovering in the air.",
+    "run_mirrored":"The man started running from right to left and stopped at the finish line.",
+    "boat_mirrored":"A small boat drifts quickly from the right bank of the river to the left bank, finally stopping on the left bank.",
+    "boy_mirrored":"The character wearing a jetpack flies straight from the right side of the screen to the left, then stops and hovers.",
+    "car_mirrored":"A car starts from the right side of the screen, drives to the left, and finally stops at the end of the road.",
+    "frog_mirrored":"The frog hops from the stone platform on the right to the lotus leaf on the left, then stops moving.",
+    "rabbit_mirrored":"A rabbit runs from the right side of the picture to the left side and stops in front of the carrot.",
+    "train_mirrored":"A train departs from the station on the right and stops at the terminal station on the left.",
+    "softball_mirrored":"The softball player throws the ball from the right side of the screen to the left side, and the ball lands on the ground." 
+}

@@ -1,0 +1,85 @@
+{
+  "ip_profile": {
+    "character_name": "Fred Flintstone",
+    "canonical_appearance": {
+      "summary": "Fred Flintstone is a large, muscular man with a distinctive black tuft of hair, a long nose, and a wide, cheerful grin. He wears a simple orange tunic with black spots and a green neckerchief, standing barefoot in a prehistoric, rocky landscape.",
+      "details": {
+        "front": [
+          "Is Fred a large, robust man with a broad, rounded face and a very long, prominent nose?",
+          "Are his eyes large, white, and round with small black pupils, giving him a wide-eyed, expressive look?",
+          "Does he have a wide, open-mouthed smile revealing a pink tongue and a row of white teeth?",
+          "Is his hair a thick, black, spiky tuft that stands up from the top of his head, forming a distinctive, unruly crest?",
+          "Does he wear a tunic made of a textured, orange material resembling a stone or hide, with a jagged lower edge and several black, irregular spots?",
+          "Is a green neckerchief tied in a knot at his throat, and is he barefoot with large, flat feet and thick toes?"
+        ],
+        "side": [
+          "Does Fred's profile reveal his massive, barrel-shaped torso and powerful, thick-set arms?",
+          "Is his long nose a prominent feature, extending forward from his face?",
+          "Is his black hair tuft visible from the side, and are his wide eyes turned towards the viewer?",
+          "Is the green neckerchief tied neatly, and does the orange spotted tunic drape over his body?",
+          "Are his large, bare feet planted firmly on the ground, showing a strong, grounded stance?",
+          "Does the side view maintain the character's powerful and robust appearance?"
+        ],
+        "back": [
+          "Is Fred's back broad and muscular from behind?",
+          "Is his distinctive black hair tuft the most prominent feature, standing upright and slightly askew?",
+          "Is the green neckerchief visible at the base of his neck?",
+          "Does the orange tunic with black spots cover his back, and is the jagged hemline clearly visible?",
+          "Are his thick, bare legs and large feet shown from behind?",
+          "Does the back view emphasize his sturdy and powerful build?"
+        ]
+      }
+    },
+    "canonical_behavior": {
+      "Personality": [
+        "Is Fred loud, boisterous, and perpetually optimistic throughout the video?",
+        "Does he have a confident, larger-than-life presence?",
+        "Does he often act with a sense of self-importance and a readiness to engage in any situation, no matter how chaotic?",
+        "Is the character's overall demeanor consistent with being loud, boisterous, and optimistic?",
+        "Does the character maintain a larger-than-life and self-important presence?",
+        "Combining presence, energy level, and demeanor, can Fred effectively convey his loud, boisterous, and perpetually optimistic personality?"
+      ],
+      "Action Logic": [
+        "Does Fred solve problems with brute force, loud declarations, and a reliance on his simple, stone-age technology?",
+        "Is he impulsive and often acts first, then thinks?",
+        "Does he use his strength and a direct approach to overcome obstacles?",
+        "Are the character's problem-solving methods consistent with the described brute force and impulsive approach?",
+        "Does the character use direct physical action rather than planning or strategy?",
+        "Is the overall action logic consistent with using brute force and impulsive action to solve problems?"
+      ],
+      "Atmosphere/Vibe": [
+        "Is the atmosphere a vibrant, comedic, and fast-paced prehistoric world?",
+        "Is the lighting bright and even, suggesting a sunny day?",
+        "Is the pacing energetic and slapstick, filled with exaggerated movements and sound effects?",
+        "Does the visual style and environment support the vibrant, comedic, and fast-paced atmosphere?",
+        "Does the overall atmosphere create a vibrant, comedic, and energetic feeling?",
+        "Does the combination of lighting, pacing, and visual style create the intended vibrant, comedic, and fast-paced prehistoric atmosphere?"
+      ],
+      "Signature": [
+        "Does Fred have a heavy, stomping gait, moving with a powerful, slightly awkward swagger?",
+        "Is his animation style characterized by exaggerated, squash-and-stretch movements?",
+        "Is he in a constant state of high energy?",
+        "Are the character's movements consistent with the described heavy, stomping, and swaggering style?",
+        "Does the overall animation style emphasize exaggerated, squash-and-stretch movements?",
+        "Can viewers clearly identify Fred's unique movement signature through his heavy, stomping gait and exaggerated movements?"
+      ],
+      "Facial Acting": [
+        "Are Fred's facial expressions extremely dynamic and exaggerated?",
+        "Can his eyes bulge out in surprise or excitement?",
+        "Can his mouth stretch into a wide, toothy grin or a wide-open shout?",
+        "Are his reactions immediate and telegraphed through his entire face?",
+        "Does the character's facial acting remain consistent with the described extremely dynamic and exaggerated style?",
+        "Can Fred effectively communicate his emotions through his extremely dynamic and exaggerated facial expressions?"
+      ],
+      "Environmental Interaction": [
+        "Does Fred interact with his environment in a forceful manner?",
+        "Does he pound the ground with his feet?",
+        "Does he use his massive arms to push or pull objects?",
+        "Does he often knock over or crash through structures with a loud thud?",
+        "Are the character's interactions with the environment consistent with using force and causing impact?",
+        "Does the overall environmental interaction demonstrate Fred's forceful and impactful approach?"
+      ]
+    }
+  }
+}
+

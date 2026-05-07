@@ -1,0 +1,17 @@
+You are generating a video prompt for a specific IP.
+IP_SETTING:
+ipprofilecharacternamePuffballcanonicalappearanceGeneralfeaturesSmallfluffykittenwithbluegrayfurwhitemarkingsonchestpawsandtailtiplargeexpressiveeyesspikytuftoffuronheadFrontviewRoundfacewithenormousglossyeyeslongwhiteupwardcurvingwhiskerspinknosepointedearswithpinkinnerliningsSideviewElongatedlowbodyinplayfulruntailheldhighcurvingslightlywithwhiteplumeshortpowerfullegsBackviewRoundedbackwiththickbluegrayfurbushytailheldhighendinginwhitetuftcompactshapecanonicalbehaviorPersonalityInquisitiveandplayfulinnocentcuriosityandgentleenergyalwaysreadytoexploreActionLogicSolvesproblemsthroughphysicalinteractionreliesonspeedagilityandkeensensesSignatureLightbouncygaitwithspringslightwobblegivingfloatingqualitysmoothroundedanimationFacialActingWideeyedlookofcuriosityexpressiveeyesconveywondertosurpriseEnvironmentalInteractionMoveswithpurposeusespawstoexploreobjectstailflicksshowexcitement
+
+TASK:
+Generate a single video using the IP setting above.
+Use the following action description as the core content.
+ACTION:
+Scene & actions (show environment interaction clearly):
+- Cozy indoor or garden scene with a soft toy ball and a small box.
+- Puffball trots forward with a light bouncy gait, tail flicking.
+- Puffball taps the toy with a paw, then circles and nudges it; briefly pounces (gentle) and lands softly.
+- Puffball uses paws to peek into the small box, then backs out and looks excited.
+
+Object Color：
+- soft toy ball: bright red with white polka dots
+- small box: warm brown wooden box with golden latch

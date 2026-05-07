@@ -1,0 +1,21 @@
+Generate an action-focused video for “Puffball” emphasizing canonical behavior + expressive facial acting.
+
+Canonical behavior cues to follow:
+- Inquisitive and playful; always ready to explore.
+- Solves tasks via direct physical interaction; quick energetic gait; uses paws to feel/explore; tail flick shows excitement.
+- Warm gentle whimsical vibe; soft lighting; cozy pacing.
+
+Scene & actions (show environment interaction clearly):
+- Cozy indoor or garden scene with a soft toy ball and a small box.
+- Puffball trots forward with a light bouncy gait, tail flicking.
+- Puffball taps the toy with a paw, then circles and nudges it; briefly pounces (gentle) and lands softly.
+- Puffball uses paws to peek into the small box, then backs out and looks excited.
+
+Facial acting:
+- Eyes track the toy, widen before pounce, blink on landing, then return to curious wide-eyed look.
+
+Object Color：
+- soft toy ball: bright red with white polka dots
+- small box: warm brown wooden box with golden latch
+
+

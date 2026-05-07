@@ -1,0 +1,19 @@
+Create a 360-degree turntable video for “Professor Snout” focusing on canonical detective appearance and expressive eye acting.
+
+Character design must match exactly:
+- Stout anthropomorphic pig detective.
+- Brown fedora with red band and small black tuft; black-rimmed glasses.
+- Yellow collared shirt, red-and-black striped tie, brown tattered vest with two large black buttons.
+- Prominent pink snout; large pink ears; curly tail; small brown hooves.
+- Often holding a thin dark pointed object (pointer/stylus).
+
+Shot / motion requirements:
+- Full-body, centered, fixed camera; solid light-blue background (clean simple).
+- Slow smooth 360° rotation with holds at front/side/back to show hat, glasses, vest edges, tail curl, hooves.
+- Keep costume consistent; no missing items.
+
+Facial acting requirements:
+- Eyes are primary: widen in surprise, narrow into analytical stare, smug subtle smile.
+- Keep expressions “confident, intelligent, self-assured” with a comedic detective tone.
+
+

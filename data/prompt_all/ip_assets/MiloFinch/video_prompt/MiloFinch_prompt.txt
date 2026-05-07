@@ -1,0 +1,17 @@
+You are generating a video prompt for a specific IP.
+IP_SETTING:
+ipprofilecharacternameMiloFinchcanonicalappearanceGeneralfeaturesSlenderanthropomorphiccreaturewithlongsnoutandblacknosefieryorangehairolivegreencoatwithhighcollarandfrayedhemblacktightsbrownshoesFrontviewSingleleftearwidewhiteeyewithblackpupilorangehairflowingbacklefthandincoatpocketuprightpostureSideviewLongsnoutandsingleearvisibleorangehairovershoulderleftarmbentrightarmswingingnaturallyBackviewBackofheadwithflowingorangehaircoatopenrevealingtightsandshoesfrayedhemresemblingtailcanonicalbehaviorPersonalityQuietfocuseddeterminedcalmconfidenceconveyedthroughpostureandgaitActionLogicPurposefulwalkingstridelongsnoutusedforsensingenvironmentSignatureFrayedcoathemswayswithsteadyforwardleaningstrideFacialActingSinglelargeeyeconveysemotionthroughsubtlechangesEnvironmentalInteractionNavigatesprimarilythroughsmellsnoutmovingasitwalks
+
+TASK:
+Generate a single video using the IP setting above.
+Use the following action description as the core content.
+ACTION:
+Scene & actions (show environment interaction clearly but gentle):
+- Autumn path with a few leaves and a small signpost or stone.
+- Milo walks forward with steady confident gait; coat frayed hem sways naturally.
+- Milo pauses, sniffs the air with the long snout (clear sniffing motion), leans closer to inspect a leaf or signpost.
+- Milo gently touches a leaf or the signpost edge with fingertips, then continues walking.
+
+Object Color：
+- leaves: autumn orange and red leaves with yellow edges
+- small signpost or stone: weathered dark brown wooden signpost with white text, or gray stone with moss green patches

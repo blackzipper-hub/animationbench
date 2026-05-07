@@ -1,0 +1,23 @@
+Generate an action-focused video for “Zippy the Gecko” emphasizing canonical behavior + expressive facial acting.
+
+Canonical behavior cues to follow:
+- Energetic, confident, playful; adventurous presence.
+- Uses balance bike as primary locomotion; agile and controlled; smooth steady pacing in a bright minimalist world.
+- Signature: lightweight fast motion while maintaining perfect balance; fluid dynamic animation.
+
+Scene & actions (show environment interaction clearly):
+- Minimalist track with a few cones and a small ramp.
+- Zippy rides the black balance bike forward, weaving smoothly between cones with confident control.
+- Performs a controlled hop over a small bump (bike stays stable), then rides up and down the small ramp.
+- Show hands gripping handlebars and feet positioned consistently on pedals/frame; clear wheel-ground contact.
+
+Facial acting:
+- Eyes stay large and expressive; add blinks and quick focus shifts when turning.
+- Smile remains friendly but can shift to excited grin during the jump, then relaxed smile after landing.
+
+Object Color：
+- cones: bright orange safety cones with white reflective stripes
+- small ramp: dark gray concrete ramp with yellow warning stripes
+- black balance bike: matte black frame with silver handlebars and red wheels
+
+

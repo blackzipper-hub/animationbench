@@ -1,0 +1,23 @@
+Generate an action-focused video for “Slick” emphasizing canonical behavior + expressive classic-cartoon facial acting.
+
+Canonical behavior cues to follow:
+- Energetic, optimistic, enthusiastic; cheerful confident presence.
+- Solves tasks with speed, agility, expressive gestures; uses long neck to see; gloved hands to manipulate; lots of squash-and-stretch.
+- High-energy 1940s–1950s cartoon vibe; fast comedic pacing; flat even lighting.
+
+Scene & actions (show environment interaction clearly):
+- Simple cartoon set with a small obstacle (a low crate) and a signpost.
+- Slick runs forward with a quick bouncy gait, then slides under the crate (comedic stretch).
+- Slick pops up, uses long snout to sniff the signpost, then grabs a prop with gloved hands and swings it playfully.
+- Include a quick hop/leap and a spin turn to emphasize agility.
+
+Facial acting:
+- Eyes bulge with surprise during slide, dart while thinking, then huge grin after success.
+- Use exaggerated head tilts and neck bends to sell reactions.
+
+Object Color：
+- low crate: bright yellow wooden crate with red painted edges
+- signpost: white painted wooden post with black text and red arrow
+- prop: colorful blue and green striped prop with yellow accents
+
+

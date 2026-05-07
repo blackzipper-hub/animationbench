@@ -1,0 +1,85 @@
+{
+  "ip_profile": {
+    "character_name": "Slick",
+    "canonical_appearance": {
+      "summary": "Slick is a slender, anthropomorphic canine with a long snout, a prominent black tuft of hair, and a red bow. He wears a black long-sleeved shirt, a white collar, teal bell-bottom pants, and brown shoes, with white gloves. His most distinctive feature is his oversized, expressive eyes and a long, thin neck.",
+      "details": {
+        "front": [
+          "Is Slick shown from the front, facing slightly to the right?",
+          "Does he have a long, light-brown snout with a large, black, teardrop-shaped nose?",
+          "Is his head covered in spiky black hair, with a large, bright red bow tied on the right side?",
+          "Are his eyes enormous, round, and white with large black pupils, conveying a wide-eyed, excited expression?",
+          "Does he have a very long, thin neck that supports his head?",
+          "Does he wear a black long-sleeved shirt with a white collar, white gloves, and teal bell-bottom pants, with brown shoes with blue soles?"
+        ],
+        "side": [
+          "Is Slick's long snout and black tuft of hair prominent from the side profile?",
+          "Is his red bow visible on the side of his head?",
+          "Are his eyes wide and expressive, looking forward?",
+          "Is his long neck clearly visible, connecting his head to his body?",
+          "Does he wear the same black shirt, white collar, white gloves, and teal pants?",
+          "Are his brown shoes with blue soles visible, and is his posture dynamic, with one leg forward as if in mid-stride?"
+        ],
+        "back": [
+          "Is the large red bow the most prominent feature on Slick's head from behind?",
+          "Is his spiky black hair visible?",
+          "Is his long neck and the back of his black shirt shown?",
+          "Does he wear the same white gloves and teal pants?",
+          "Are his brown shoes with blue soles visible?",
+          "Does a small tuft of black hair stick out from the back of his pants?"
+        ]
+      }
+    },
+    "canonical_behavior": {
+      "Personality": [
+        "Is Slick energetic, optimistic, and perpetually enthusiastic throughout the video?",
+        "Is his posture upright and dynamic?",
+        "Is his presence one of cheerful confidence and a readiness to engage with the world?",
+        "Is the character's overall demeanor consistent with being energetic and optimistic?",
+        "Does the character maintain an enthusiastic and engaging presence?",
+        "Combining posture, energy level, and presence, can Slick effectively convey his energetic, optimistic, and enthusiastic personality?"
+      ],
+      "Action Logic": [
+        "Does Slick solve problems with a combination of speed, agility, and expressive gestures?",
+        "Does he use his long neck to get a better view?",
+        "Does he use his white gloves to manipulate objects with precision?",
+        "Does he use his expressive eyes to convey his intentions and reactions?",
+        "Is he a fast mover, often running or leaping to action?",
+        "Is the problem-solving approach consistent with the described combination of speed, agility, and expressive communication?"
+      ],
+      "Atmosphere/Vibe": [
+        "Is the atmosphere a classic, high-energy cartoon, reminiscent of 1940s-1950s animation?",
+        "Is the pacing fast and comedic?",
+        "Is there a bright, warm color palette and a sense of playful chaos?",
+        "Is the lighting flat and even, typical of traditional cel animation?",
+        "Does the visual style and environment support the classic cartoon atmosphere?",
+        "Does the combination of pacing, color palette, and lighting create the intended high-energy, comedic cartoon atmosphere?"
+      ],
+      "Signature": [
+        "Is Slick's signature his distinctive, elongated neck and his wide, expressive eyes?",
+        "Does he move with a quick, bouncy gait, often with his arms swinging or gesturing?",
+        "Is his animation style characterized by squash and stretch, exaggerated movements, and a focus on facial expressions?",
+        "Are the character's movements consistent with the described quick, bouncy gait with gestures?",
+        "Does the overall animation style emphasize squash and stretch and exaggerated movements?",
+        "Can viewers clearly identify Slick's unique movement signature through his elongated neck, bouncy gait, and exaggerated movements?"
+      ],
+      "Facial Acting": [
+        "Is Slick's facial acting defined by his enormous, bulging eyes, which can widen dramatically to show surprise or excitement?",
+        "Is his mouth often open in a wide, happy grin?",
+        "Does his long neck allow for exaggerated head tilts and turns to emphasize his reactions?",
+        "Can his eyes dart around independently to show thought or distraction?",
+        "Does the character's facial acting remain consistent with the described exaggerated and expressive style?",
+        "Can Slick effectively communicate his emotions through his bulging eyes, wide grin, and exaggerated head movements?"
+      ],
+      "Environmental Interaction": [
+        "Does Slick interact with his environment in a highly physical and expressive way?",
+        "Might he use his long snout to sniff out a clue?",
+        "Might he use his gloved hands to grab a prop?",
+        "Might he use his body to slide under an obstacle?",
+        "Does he react to objects with exaggerated movements, such as jumping back in surprise or leaning forward to inspect something closely?",
+        "Does the overall environmental interaction demonstrate Slick's highly physical and expressive approach?"
+      ]
+    }
+  }
+}
+

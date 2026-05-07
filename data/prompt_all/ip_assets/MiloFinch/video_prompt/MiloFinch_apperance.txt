@@ -1,0 +1,20 @@
+Create a 360-degree turntable video for “Milo Finch” focusing on canonical appearance and subtle eye-based facial acting.
+
+Character design must match exactly:
+- Slender anthropomorphic creature with long snout and black nose.
+- Vibrant fiery orange hair flowing backward.
+- Single visible ear on the left side; one wide white eye with black pupil.
+- No mouth (mouthless face).
+- Long olive-green coat with high collar, three black buttons; frayed hem like a feathered tail.
+- Black tights and brown leather shoes.
+
+Shot / motion requirements:
+- Full-body, centered, fixed camera; soft warm storybook lighting; gentle watercolor-like background.
+- Slow smooth 360° rotation with holds at front/side/back so the coat hem, hair flow, and mouthless face are clearly visible.
+- Keep the design consistent: do NOT add a mouth or extra facial features.
+
+Facial acting requirements (subtle, consistent with quiet determination):
+- Expression is conveyed by the single eye and posture: calm focus, slow deliberate blinks, slight gaze shifts.
+- Include a few readable moments: curious glance, determined focus, gentle calm settle.
+
+

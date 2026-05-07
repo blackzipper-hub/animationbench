@@ -1,0 +1,19 @@
+Create a 360-degree turntable video for “Slick” focusing on canonical appearance and very expressive classic-cartoon facial acting.
+
+Character design must match exactly:
+- Slender anthropomorphic canine with long light-brown snout and large black teardrop nose.
+- Spiky black hair tuft; large bright red bow tied on the right side of the head.
+- Enormous round white eyes with large black pupils; very long thin neck.
+- Black long-sleeved shirt with white collar; white gloves; teal bell-bottom pants.
+- Brown shoes with blue soles; orange puddle-like shadow on a yellow background.
+
+Shot / motion requirements:
+- Full-body, centered, fixed camera; flat bright 1940s–1950s cartoon look; clean warm palette background.
+- Slow smooth 360° rotation with holds at front/side/back to show bow, neck length, pants flare, shoe soles.
+- Keep 2D/cel-like style consistent (no realistic lighting changes).
+
+Facial acting requirements (rich):
+- Big eyes: wide surprise, squint, excited bulge, quick darting glances.
+- Mouth: big happy grin and comedic reaction shapes; exaggerated head tilts enabled by long neck.
+
+

@@ -1,0 +1,18 @@
+You are generating a video prompt for a specific IP.
+IP_SETTING:
+ipprofilecharacternameGerrytheGiraffecanonicalappearanceGeneralfeaturesStylizedanthropomorphicgiraffewithyelloworangebodydarkbrownspotslargeyellowearswithorangeinteriorroundedbodyfourslenderlegsdarkhoovesshorttuftedtailFrontviewRoundheadwithtwodarkbrownossiconeslargewhiteeyeswithblackpupilssmallredsmileandnostrilsSideviewLonggentlycurvedneckheadslightlyforwardelongatedbodywithlegsundertorsofullbodyspottedpatternBackviewRoundedhindquarterssmoothbackwithshortdarkmanealongnecktailhangingwithdarktuftcanonicalbehaviorPersonalityCheerfulgentlecuriousuprightposturewithwideeyesandfriendlysmileActionLogicUseslongnecktosurveysurroundingsandreachhighobjectsSignatureSlowgracefulgaitwithgentlebodyswayandslightneckbobbingFacialActingExpressivelargeeyesconveyingemotionthroughsubtlechangesEnvironmentalInteractionReachesleaveslooksoverfencestouchesobjectswithneck
+
+TASK:
+Generate a single video using the IP setting above.
+Use the following action description as the core content.
+ACTION:
+Scene & actions (show environment interaction clearly):
+- Simple whimsical outdoor scene with a small tree and a fence.
+- Gerry walks forward slowly with a gentle sway; neck bobs slightly with each step.
+- Gerry stretches neck up to reach leaves on the tree, gently touches and plucks one leaf, then looks over the fence.
+- Ensure hooves make soft grounded steps; avoid knocking things over.
+
+Object Color：
+- small tree: vibrant green leaves on dark brown branches with light brown trunk
+- fence: white painted wooden fence with gray weathered patches
+- leaves: bright green with yellow-green highlights

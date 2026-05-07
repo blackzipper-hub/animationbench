@@ -1,0 +1,85 @@
+{
+  "ip_profile": {
+    "character_name": "Crabby",
+    "canonical_appearance": {
+      "summary": "A highly stylized, anthropomorphic red crab with a smooth, glossy carapace, oversized white eyes with black pupils, and a beige underbelly featuring two small, protruding white teeth. The crab has eight articulated legs and two prominent claws, all rendered in a bright, cartoonish 3D style.",
+      "details": {
+        "front": [
+          "Does the crab face directly forward with a vibrant, glossy red carapace and symmetrical design?",
+          "Are two enormous, spherical white eyes set high on its head, each with a large black pupil and thin red rim?",
+          "Is a beige underbelly visible below the eyes, featuring two small, distinct white teeth protruding from the mouth area?",
+          "Are the two large, red claws raised and open, positioned symmetrically on either side of its head?",
+          "Are the four walking legs splayed out on the sand, with the front pair angled forward and the rear pair angled backward?",
+          "Does the overall stance appear stable and grounded?"
+        ],
+        "side": [
+          "Is the crab's body low to the ground with a rounded red carapace that slopes down to a beige underside?",
+          "Is the large, white eye prominently displayed with the red rim clearly visible?",
+          "Is the front-left claw raised high, while the other three visible legs are planted on the sand?",
+          "Are the articulated joints of the legs clearly visible?",
+          "Is there a clear distinction between the red upper body and the beige lower body?",
+          "Is the overall form compact and sturdy from the side view?"
+        ],
+        "back": [
+          "Is the rounded red carapace clearly visible from behind?",
+          "Are the two large claws raised and positioned on either side of the carapace with tips pointing upwards?",
+          "Are the four rear legs visible, splayed out to provide balance?",
+          "Is the beige underbelly not visible from this angle?",
+          "Is the overall shape symmetrical and robust?",
+          "Does the back view emphasize the crab's powerful build?"
+        ]
+      }
+    },
+    "canonical_behavior": {
+      "Personality": [
+        "Is Crabby curious and alert throughout the video?",
+        "Does the crab stand with a wide, open posture that conveys a sense of wonder and readiness?",
+        "Are the eyes wide and fixed forward, maintaining the described alert state?",
+        "Does the character appear to be observing its surroundings with a calm, yet attentive, presence?",
+        "Is the character's overall demeanor consistent with being curious and alert?",
+        "Combining posture, eye position, and overall presence, can Crabby effectively convey its curious and alert personality?"
+      ],
+      "Action Logic": [
+        "Does the crab move with a slow, deliberate gait, using its legs to push off the sand?",
+        "Are the claws used for grasping or digging when solving problems?",
+        "Are the eyes the primary sensory organs, constantly scanning the environment?",
+        "Does the character solve problems by using its claws to manipulate objects or by moving to a different vantage point?",
+        "Are the character's movements consistent with the described slow, deliberate approach?",
+        "Is the problem-solving method consistent with using claws for manipulation and eyes for observation?"
+      ],
+      "Atmosphere/Vibe": [
+        "Is the atmosphere bright, sunny, and cheerful throughout the video?",
+        "Is the scene set on a tropical beach with clear blue skies and turquoise water?",
+        "Does the environment create a relaxed and playful atmosphere?",
+        "Is the lighting bright and even, casting soft shadows on the sand?",
+        "Does the visual style and environment support the bright, sunny, and cheerful atmosphere?",
+        "Does the combination of setting, lighting, and environment create the intended relaxed and playful tropical beach atmosphere?"
+      ],
+      "Signature": [
+        "Does the crab have a slow, stately walk with a slight wobble?",
+        "Are the crab's movements smooth and deliberate, with a distinct pause between each step?",
+        "Is the animation style clean and polished, with a focus on character expression and environmental interaction?",
+        "Are the character's movements consistent with the described slow, stately walk with wobble?",
+        "Does the overall animation style emphasize character expression and environmental interaction?",
+        "Can viewers clearly identify Crabby's unique movement signature through its slow, deliberate gait and wobble?"
+      ],
+      "Facial Acting": [
+        "Are the crab's eyes its primary means of expression throughout the video?",
+        "Do the eyes remain wide and fixed, conveying a constant state of alertness and curiosity?",
+        "Can the eyes shift slightly to follow movement while maintaining the overall consistent expression?",
+        "Is the overall expression consistent with the described alert and curious state?",
+        "Does the character's facial acting remain consistent with eye-based expression?",
+        "Can Crabby effectively communicate its state of alertness and curiosity through eye movement alone?"
+      ],
+      "Environmental Interaction": [
+        "Do the crab's legs leave clear impressions in the sand as it moves?",
+        "Does the character interact with the environment by using its claws to dig into the sand or to grasp small objects?",
+        "Is the crab's shadow cast on the sand, indicating the position of the sun?",
+        "Are the character's interactions with the environment consistent with using claws for digging and grasping?",
+        "Does the overall environmental interaction demonstrate the crab's physical engagement with the sandy beach environment?",
+        "Can viewers clearly see evidence of the crab's interaction with the sand through footprints and claw marks?"
+      ]
+    }
+  }
+}
+

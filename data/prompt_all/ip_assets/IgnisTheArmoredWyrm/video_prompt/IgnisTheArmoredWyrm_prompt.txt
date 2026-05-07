@@ -1,0 +1,19 @@
+You are generating a video prompt for a specific IP.
+IP_SETTING:
+ipprofilecharacternameIgnistheArmoredWyrmcanonicalappearanceGeneralfeaturesBipedaldragonwithorangeredscalesdarkgreysegmentedarmorontorsoandlimbsspikedtaillargefoldedmembranouswingsFrontviewLongsnoutwithcurvedhornssinglegreeneyesnarlingmouthwithsharpteeththickneckarmoredchestandshoulderslargeclawedhandsSideviewMuscularneckandtorsoprominentchestarmorbentpowerfularmsandlegswithlargeclawsBackviewBroadarmoredbackwithribbedtexturevisibleshoulderarmorlongspikedtailwingsformingimposingsilhouettecanonicalbehaviorPersonalityDominantaggressiveterritorialintimidatingcombatreadypostureActionLogicUsesbrutestrengthandclawstooverpowerobstaclesandenemiesSignatureSlowheavygaitwithforcefulimpactfulmovementsFacialActingPersistentsnarlbaredteethintensegreeneyeEnvironmentalInteractionAppliesimmenseforcesmashesstructuresleavesdeepfootprints
+
+TASK:
+Generate a single video using the IP setting above.
+Use the following action description as the core content.
+
+ACTION:
+Scene & actions (show environment interaction clearly):
+- Fantasy battlefield ground with a wooden crate and a stone pillar fragment.
+- Ignis stomps forward with heavy impactful steps (visible ground impressions), then slashes the crate with claws.
+- Ignis pushes/pulls the pillar fragment aside with armored strength.
+- Use wings to create a visible gust (dust/cloth flutter) while staying folded/partially unfurled as per design.
+- Keep motions weighty and slow, emphasizing power.
+
+Object Color：
+- wooden crate: dark brown weathered wood with black metal bands
+- stone pillar fragment: pale gray stone with white and dark gray marbled patterns

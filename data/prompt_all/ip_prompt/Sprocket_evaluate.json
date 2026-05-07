@@ -1,0 +1,85 @@
+{
+  "ip_profile": {
+    "character_name": "Sprocket",
+    "canonical_appearance": {
+      "summary": "Sprocket is a small, bipedal, reptilian humanoid with a light green body, blue hair, and two small horns. They wear a loose, cream-colored button-up onesie and have a long, prehensile tail with a spiky tip. Their most distinctive features are their large, expressive eyes, pointed ears with pink interiors, and a joyful, open-mouthed expression.",
+      "details": {
+        "front": [
+          "Does Sprocket stand facing forward with a wide, cheerful smile, revealing a small pink tongue?",
+          "Is their face a light, mint-green color with a rounded chin, small simple nose, and large, round, white eyes with black pupils that are wide open?",
+          "Is their head topped with a short, spiky blue wig, and do two small, curved horns, colored a darker green, protrude from the top?",
+          "Are their ears large, pointed, and triangular, with a visible pink inner lining?",
+          "Do they wear a loose-fitting, long-sleeved, cream-colored onesie with a collar and a row of small, light-colored buttons, with arms outstretched to the sides, palms up?",
+          "Are their legs short and stout, ending in three-toed feet with a light green coloration, and is a long, prehensile tail with a darker green, spiral-shaped pattern and spiky, tufted tip curling up behind them?"
+        ],
+        "side": [
+          "Is Sprocket's profile visible, with their body angled slightly away from the viewer, looking towards the right?",
+          "Are their large, expressive eyes still wide open, and is their mouth open in a happy expression?",
+          "Does their blue hair fall over their forehead and down the side of their face, and are the two horns clearly visible on top of their head?",
+          "Is their pointed ear with the pink interior prominent?",
+          "Does the cream-colored onesie drape over their body, showing the side of their torso and the curve of their back?",
+          "Is the long, spiraled tail extending behind them, curving up and over their back, with the spiky tufted tip visible?"
+        ],
+        "back": [
+          "Is Sprocket's head turned slightly to the left, so their face is partially visible from behind?",
+          "Is their short, spiky blue hair seen from the back, and are the two small, curved horns visible on top of their head?",
+          "Are their large, pointed ears seen from behind?",
+          "Does the cream-colored onesie cover their back, with the sleeves hanging down, and are their arms outstretched to the sides?",
+          "Are their legs visible, with the three-toed feet planted on the ground?",
+          "Is the long, prehensile tail the most prominent feature, extending down and curving up in a large spiral, ending in a spiky, tufted tip?"
+        ]
+      }
+    },
+    "canonical_behavior": {
+      "Personality": [
+        "Is Sprocket inherently curious, optimistic, and energetic throughout the video?",
+        "Is their posture open and inviting, with a constant sense of wonder and excitement about the world around them?",
+        "Do they exude a friendly and approachable presence?",
+        "Are they always eager to engage with their environment and any creatures they might encounter?",
+        "Is the character's overall demeanor consistent with being curious, optimistic, and energetic?",
+        "Combining posture, energy level, and presence, can Sprocket effectively convey their curious, optimistic, and energetic personality?"
+      ],
+      "Action Logic": [
+        "Does Sprocket solve problems with direct, physical interaction?",
+        "Do they use their long, flexible tail to grasp objects, pull levers, or stabilize themselves?",
+        "Do they use their large hands to manipulate items?",
+        "Do they use their expressive face to communicate their thoughts and emotions?",
+        "Are they not afraid to use their body to explore, such as rolling, jumping, or using their tail as a spring?",
+        "Is the problem-solving approach consistent with the described direct physical interaction and body-based exploration?"
+      ],
+      "Atmosphere/Vibe": [
+        "Is the atmosphere bright, cheerful, and whimsical throughout the video?",
+        "Is there a focus on a gentle, hand-drawn animation style?",
+        "Is the pacing relaxed and exploratory, with a focus on character-driven moments?",
+        "Is the lighting soft and even, suggesting a sunny, pleasant day in a natural, outdoor setting?",
+        "Does the visual style and environment support the bright, cheerful, and whimsical atmosphere?",
+        "Does the combination of animation style, pacing, and lighting create the intended bright, cheerful, and whimsical atmosphere?"
+      ],
+      "Signature": [
+        "Does Sprocket have a light, bouncy gait, with a noticeable spring in their step?",
+        "Are their movements fluid and exaggerated, with a distinct weightlessness?",
+        "Do they often move with a slight wobble, as if their body is still adjusting to the world?",
+        "Is their animation style characterized by smooth, rounded lines and a soft, painterly texture?",
+        "Are the character's movements consistent with the described light, bouncy, and weightless style?",
+        "Can viewers clearly identify Sprocket's unique movement signature through their light, bouncy gait and weightless quality?"
+      ],
+      "Facial Acting": [
+        "Are Sprocket's eyes their primary means of expression?",
+        "Can their eyes widen dramatically to show surprise or excitement, or narrow slightly to show concentration?",
+        "Is their mouth often open in a smile or a gasp of wonder?",
+        "Is their facial range limited to these two primary expressions, but the intensity of the eye movement and the shape of the mouth convey a wide range of emotions?",
+        "Does the character's facial acting remain consistent with the described eye-based expression?",
+        "Can Sprocket effectively communicate a wide range of emotions through their expressive eyes and mouth shape?"
+      ],
+      "Environmental Interaction": [
+        "Does Sprocket interact with the environment in a tactile and playful way?",
+        "Will they gently touch the petals of a flower, feel the texture of a rock, or use their tail to brush against a bush?",
+        "Are they drawn to small, interesting objects and will they pick them up to examine them closely?",
+        "Is their interaction with the environment always curious and respectful?",
+        "Are the character's interactions with objects consistent with using gentle touch and tail for exploration?",
+        "Does the overall environmental interaction demonstrate Sprocket's tactile, playful, and respectful approach?"
+      ]
+    }
+  }
+}
+

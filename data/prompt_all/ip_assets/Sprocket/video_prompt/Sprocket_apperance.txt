@@ -1,0 +1,19 @@
+Create a 360-degree turntable video for “Sprocket” focusing on canonical appearance and expressive facial acting.
+
+Character design must match exactly:
+- Small bipedal reptilian humanoid with light mint-green body.
+- Short spiky blue hair; two small curved darker-green horns.
+- Large pointed ears with pink interiors; large round white eyes with black pupils.
+- Joyful open-mouthed smile showing small pink tongue.
+- Loose cream-colored button-up onesie with collar and small buttons; three-fingered hands + thumb; three-toed feet.
+- Long prehensile tail with darker green spiral pattern and spiky tufted tip.
+
+Shot / motion requirements:
+- Full-body, centered, fixed camera; bright cheerful whimsical outdoor lighting; simple ground with small flowers/grass is fine.
+- Slow smooth 360° rotation with holds at front/side/back to show horns, ear interiors, onesie buttons, tail spiral and spiky tip.
+- Keep soft painterly/cartoon style consistent; no design drift.
+
+Facial acting requirements:
+- Very expressive eyes and mouth: delighted smile, surprised wide eyes, curious squint, excited gasp, then back to joyful grin.
+
+

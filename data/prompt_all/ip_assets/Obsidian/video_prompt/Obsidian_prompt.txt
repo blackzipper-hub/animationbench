@@ -1,0 +1,18 @@
+You are generating a video prompt for a specific IP.
+IP_SETTING:
+ipprofilecharacternameObsidiancanonicalappearanceGeneralfeaturesBlackeightleggedroboticspiderwithmattedomeheadglowingredeyesexposedmechanicalcorearticulatedlegswithsmallwheelsFrontviewMattedomeheadwithsidesensorringedinredtworedeyeseightlegssymmetricallyarrangedSideviewLowelongatedbodydomeheadwithsinglesensorexposedwiringlegsinstaggeredformationBackviewDomeheadwithrearsidesensorvisiblemechanicalcoreeightlegswithsmallredindicatorscanonicalbehaviorPersonalityObservantmethodicaldetachedcalmandvigilantpostureActionLogicRollssmoothlyusingwheeledlegspivotstonavigateobstaclesSignatureSlowcontrolledrollinggaitwithprecisemovementsFacialActingFixedredeyessidesensorrotatesduringscanningEnvironmentalInteractionMovessilentlygentlymanipulatessmallobjects
+
+TASK:
+Generate a single video using the IP setting above.
+Use the following action description as the core content.
+ACTION:
+Scene & actions (show environment interaction clearly):
+- Clean sci-fi floor with 2–3 small objects (a small cube, a low ramp, a marker cone).
+- Obsidian rolls forward smoothly on wheel-feet, then pivots precisely around the cone.
+- It uses a front leg to gently push the cube into alignment (minimal force), then rolls up the small ramp and back down.
+- Show clear contact: wheels rolling, leg tip nudging, sensor scanning behavior.
+
+Object Color：
+- small cube: glossy white cube with blue accent lines
+- low ramp: metallic silver ramp with black non-slip surface
+- marker cone: bright orange safety cone with white reflective stripes

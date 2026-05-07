@@ -1,0 +1,19 @@
+Create a 360-degree turntable video for “Pip the Pebble” focusing on canonical owl appearance and very expressive eye/beak acting.
+
+Character design must match exactly:
+- Stylized 3D cartoon owl with round plump body and plush toy-like look.
+- Dark brown feathered ear tufts upright; light beige facial disc.
+- Enormous round eyes with bright orange irises, black pupils, white highlights; innocent wide-eyed look.
+- Small bright orange beak slightly open with hint of red tongue.
+- Belly light brown feathers; back/wings darker brown; small wings tucked; short stout legs with bright orange feet and claws.
+
+Shot / motion requirements:
+- Full-body, centered, fixed camera; warm neutral background; soft lighting.
+- Slow smooth 360° rotation with holds at front/side/back. Ensure ear tufts, wing shapes, tail feathers, and feet are clearly visible.
+- Maintain plush smooth rounded edges, no style drift.
+
+Facial acting requirements (rich):
+- Eyes and beak should animate: blink, widen in surprise, narrow in focus, joyful sparkle, gentle contentment.
+- Beak opens/closes slightly to support expressions (smile-like), consistent with cheerful demeanor.
+
+

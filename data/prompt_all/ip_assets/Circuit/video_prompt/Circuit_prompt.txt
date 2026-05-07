@@ -1,0 +1,18 @@
+You are generating a video prompt for a specific IP.
+IP_SETTING:
+ipprofilecharacternameCircuitcanonicalappearanceGeneralfeaturesBipedalrobotwithasphericalwhiteheadslenderarticulatedbodywhitetorsoandblackjointedlimbsasymmetricalraisedarmFrontviewSingleglowingyelloweyeblackandwhitemultifingeredhandsorangelightsontorsoandlimbsSideviewTiltedheadwithvisibleeyeraisedleftarmbentatelbowwhiteandblackpanelingBackviewCentralheadseamwithsmallyellowlightwhiteblackpanelingwithorangelightsasymmetricalarmscanonicalbehaviorPersonalityCuriousandcontemplativeuprightalertpostureraisedarmsignalsreadinesssingleeyeconveysfocusActionLogicScansenvironmentfirstthenusesarticulatedlimbstomanipulateobjectsornavigateobstaclesSignatureSmoothglidingmotionwithslightbouncecoordinatedarmswithraisedarmleadingFacialActingSingleeyemovementonlygazetracksobjectsglowintensityshiftswithfocusEnvironmentalInteractionUsesmultifingeredhandstograspobjectstouchsurfacessensorsdetectchanges
+
+TASK:
+Generate a single video using the IP setting above.
+Use the following action description as the core content.
+ACTION:
+Scene & actions (show environment interaction clearly):
+- Simple lab floor with 2–3 props (a small cube, a lever panel, a short obstacle).
+- Circuit pauses to scan (eye tracks + glow intensity rises), then uses hands to pick up the cube and place it precisely.
+- Circuit steps/glides forward, navigates around the obstacle, reaches with the raised arm to tap/activate the lever panel.
+- Ensure feet contact the floor and hands clearly touch props; keep motions precise and mechanical.
+
+Object Color：
+- small cube: metallic silver with blue LED edges
+- lever panel: dark gray panel with bright green activation button
+- short obstacle: matte black rectangular block

@@ -1,0 +1,85 @@
+{
+  "ip_profile": {
+    "character_name": "Obsidian",
+    "canonical_appearance": {
+      "summary": "Obsidian is a sleek, black, eight-legged robotic spider with a matte, dome-shaped head, glowing red eyes, and a complex, exposed mechanical undercarriage. It possesses a symmetrical, bipedal-like stance with articulated legs ending in small wheels, giving it a unique hybrid form.",
+      "details": {
+        "front": [
+          "Is the robot's head a smooth, dark gray, matte-finished dome with a central, large, circular sensor on the left side, outlined in red?",
+          "Are two prominent, glowing red orbs serving as eyes, positioned side-by-side?",
+          "Is the exposed mechanical core visible below the head, featuring a complex network of gears, wires, and a central rectangular panel?",
+          "Are the robot's eight legs arranged symmetrically, with the front four legs positioned forward and the rear four slightly retracted?",
+          "Are the legs segmented with black, articulated joints, and are the feet small, black wheels?",
+          "Are small red indicator lights visible on the upper joints of the legs?"
+        ],
+        "side": [
+          "Is the robot's head a smooth, rounded dome with a single large sensor on the side, which has a red ring?",
+          "Are the two red eyes visible from the side, glowing brightly?",
+          "Is the mechanical undercarriage exposed, showing intricate wiring and a central processing unit?",
+          "Are the legs arranged in a staggered, tripod-like formation, with the front legs extending forward and the rear legs trailing behind?",
+          "Are the legs composed of multiple segments with black, jointed connectors, and are the feet small, black wheels?",
+          "Is the overall form sleek and compact, with a low center of gravity?"
+        ],
+        "back": [
+          "Is the robot's head a smooth, matte dome with a single large sensor on the right side, outlined in red?",
+          "Are the two red eyes visible from the back, glowing?",
+          "Is the exposed mechanical core visible, showing a complex network of gears, wires, and a central rectangular panel?",
+          "Are the eight legs arranged symmetrically, with the rear four legs positioned backward?",
+          "Are the legs segmented with black, articulated joints, and are the feet small, black wheels?",
+          "Are small red indicator lights visible on the upper joints of the legs, and is the overall form sleek and compact?"
+        ]
+      }
+    },
+    "canonical_behavior": {
+      "Personality": [
+        "Is Obsidian observant, methodical, and detached throughout the video?",
+        "Does it stand in a neutral, ready posture?",
+        "Does it exude a sense of calm intelligence and silent vigilance?",
+        "Is the character's overall demeanor consistent with being observant and methodical?",
+        "Does the character maintain a detached and analytical presence?",
+        "Combining posture, presence, and demeanor, can Obsidian effectively convey its observant, methodical, and detached personality?"
+      ],
+      "Action Logic": [
+        "Does Obsidian move with a deliberate, calculated pace?",
+        "Does it use its wheeled feet to roll smoothly across surfaces?",
+        "Can it pivot and reposition its legs to navigate obstacles or maintain balance?",
+        "Does it rely on its central sensors to analyze its environment and plan its next move?",
+        "Are the character's movements consistent with the described deliberate and calculated approach?",
+        "Is the problem-solving method consistent with sensor-based analysis followed by calculated movement?"
+      ],
+      "Atmosphere/Vibe": [
+        "Is the atmosphere sterile, futuristic, and slightly ominous?",
+        "Is the lighting cool and even, with a soft, diffused glow from the red eyes?",
+        "Does the lighting create a sense of quiet, technological menace?",
+        "Does the visual style and environment support the sterile, futuristic atmosphere?",
+        "Does the overall atmosphere convey a sense of quiet, technological menace?",
+        "Does the combination of lighting, visual design, and environment create the intended sterile, futuristic, and slightly ominous atmosphere?"
+      ],
+      "Signature": [
+        "Does Obsidian have a slow, rolling gait with a slight, rhythmic vibration?",
+        "Are its movements precise and economical, with a focus on stability and efficiency?",
+        "Is the animation style smooth and fluid, emphasizing the mechanical nature of its form?",
+        "Are the character's movements consistent with the described slow, rolling gait with vibration?",
+        "Does the overall animation style emphasize mechanical precision and efficiency?",
+        "Can viewers clearly identify Obsidian's unique movement signature through its slow, rolling, and precise movements?"
+      ],
+      "Facial Acting": [
+        "Do the red eyes remain fixed and steady, with no blinking or movement?",
+        "Does the sensor on the side of the head rotate slowly, indicating active scanning?",
+        "Is there no other facial expression, reinforcing its emotionless, analytical nature?",
+        "Does the character's facial acting remain consistent with the described fixed eyes and rotating sensor?",
+        "Can Obsidian effectively communicate its analytical state through eye steadiness and sensor rotation?",
+        "Does the overall facial acting reinforce the character's emotionless and analytical nature?"
+      ],
+      "Environmental Interaction": [
+        "Does Obsidian glide silently over surfaces, leaving no trace?",
+        "Can it use its legs to gently push or manipulate small objects?",
+        "Can its sensors detect and respond to changes in its surroundings, such as heat or motion?",
+        "Are the character's interactions with the environment consistent with gentle manipulation and sensor-based detection?",
+        "Does the overall environmental interaction demonstrate Obsidian's silent, precise, and sensor-based approach?",
+        "Can viewers observe evidence of the robot's sensor-based environmental awareness and gentle manipulation?"
+      ]
+    }
+  }
+}
+

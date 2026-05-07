@@ -1,0 +1,17 @@
+You are generating a video prompt for a specific IP.
+IP_SETTING:
+ipprofilecharacternameChompcanonicalappearanceGeneralfeaturesUprightbipedalcharacterwithasmoothbluebackandwhitebellybodyalargeroundheadwithadorsalfinpectoralfinsfunctioningasarmsandstubbythreetoedlegsFrontviewBigeyesandawidegrinSideviewTaperedtorsoandafannedtailBackviewUnmarkedroundedbluesurfaceandanupwardcurvingtailfincanonicalbehaviorPersonalityEnergeticfriendlycheerfuluprightconfidentposturewithconstantwidesmileexudingexcitementandapproachabilityActionLogicSolvesproblemsthroughdirectphysicalactionusingtailfinforpropulsionandbalancepectoralfinsformanipulationSignatureHeavygroundedgaitwithslightbouncemovingwithweightandmomentumsmoothfluidanimationFacialActingStaticbuthighlyexpressivefacewithlargewidebrighteyesandalwaysopensmilereactionsthroughbodylanguageEnvironmentalInteractionInteractsbywalkingrunningandusingfinstograspobjectsmovingwithconfidenceandpurpose
+
+TASK:
+Generate a single video using the IP setting above.
+Use the following action description as the core content.
+ACTION:
+Scene & actions (show environment interaction clearly):
+- Simple playful setting (clean bright ground plane, a few safe props like a beach ball and a small box).
+- Chomp hops forward with a bouncy gait, rotates playfully, then uses a pectoral fin to gently pick up/push a prop.
+- Show feet contacting the ground (weight + bounce), and tail fin assisting balance.
+- End with Chomp placing the prop down and giving an excited friendly pose.
+
+Object Color：
+- beach ball: vibrant blue and yellow striped pattern
+- small box: light beige cardboard box with dark brown edges

@@ -1,0 +1,18 @@
+Create a 360-degree turntable video for “Obsidian” focusing on canonical appearance and limited robotic facial acting.
+
+Character design must match exactly:
+- Sleek black eight-legged robotic spider with matte dome-shaped head.
+- Two glowing red eyes; side circular sensor with red ring; exposed mechanical undercarriage with gears/wires/panel.
+- Legs are segmented with black articulated joints; feet end in small wheels; small red indicator lights on leg joints.
+- Low center of gravity, compact silhouette.
+
+Shot / motion requirements:
+- Full-body, centered, fixed camera; sterile futuristic environment; cool even lighting with subtle red glow accents.
+- Slow smooth 360° rotation with holds at front/side/back to show wheels, sensor rings, undercarriage details.
+- Keep design stable, no organic deformation.
+
+Facial acting requirements (robot-appropriate):
+- Eyes remain steady but can subtly brighten/dim to signal alertness.
+- Side sensor rotates slowly as “attention” shifts; keep it minimal and mechanical.
+
+

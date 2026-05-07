@@ -1,0 +1,211 @@
+{
+    "basketball1": {
+        "prompt": "Playing basketball",
+        "questions": [
+            "Are there any clear ball-handling actions (dribbling, passing, shooting, rebounding, blocking)? 1 point is awarded for each valid action. Please give me only the final score.",
+            "Does the scene expand reasonably to show more of the court, hoop, sidelines, or audience? Please answer only with \"yes\" or \"no\".",
+            "Do teammates, opponents, or a referee enter or leave the scene? Please answer only with \"yes\" or \"no\".",
+            "Are there interactions with the ball, hoop, or other court equipment? Please answer only with \"yes\" or \"no\".",
+            "Is there any camera movement or shot change (zoom to face/ball, wide court shot, follow action)? Please answer only with \"yes\" or \"no\".",
+            "Does the environment change (scoreboard update, shot clock, lighting/time of day)? Please answer only with \"yes\" or \"no\"."
+        ]
+    },
+    "boxing1": {
+        "prompt": "Boxing in the boxing ring",
+        "questions": [
+            "Are there any clear boxing actions (jabbing, hooking, uppercutting, blocking, dodging, footwork)? 1 point is awarded for each valid action. Please give me only the final score.",
+            "Does the scene expand to show the full ring, ropes, corners, or audience? Please answer only with \"yes\" or \"no\".",
+            "Do other people enter or leave the scene (opponent, referee, cornermen)? Please answer only with \"yes\" or \"no\".",
+            "Are there interactions with objects like ropes, mouthguard, or gloves? Please answer only with \"yes\" or \"no\".",
+            "Is there any camera movement or shot change (close-up of faces, wide ring shot, following movement)? Please answer only with \"yes\" or \"no\".",
+            "Does the environment change (round number display, lighting effects, crowd intensity)? Please answer only with \"yes\" or \"no\"."
+        ]
+    },
+    "volleyball1": {
+        "prompt": "Playing volleyball",
+        "questions": [
+            "Are there any clear volleyball actions (serving, passing, setting, spiking, blocking, digging)? 1 point is awarded for each valid action. Please give me only the final score.",
+            "Does the scene expand to show a full court view, net, sidelines, or spectators? Please answer only with \"yes\" or \"no\".",
+            "Do teammates, opponents, or a referee enter or leave the scene? Please answer only with \"yes\" or \"no\".",
+            "Are there interactions with the ball, net, or court boundary lines? Please answer only with \"yes\" or \"no\".",
+            "Is there any camera movement or shot change (close-up of hands/ball, wide court view, follow the ball)? Please answer only with \"yes\" or \"no\".",
+            "Does the environment change (score change, lighting, time of day, crowd reactions)? Please answer only with \"yes\" or \"no\"."
+        ]
+    },
+    "cooking1": {
+        "prompt": "Cooking",
+        "questions": [
+            "Are there any clear cooking actions (chopping, stirring, frying, boiling, seasoning, plating, tasting)? 1 point is awarded for each valid action. Please give me only the final score.",
+            "Does the scene expand to show more kitchen areas, appliances, or dining space? Please answer only with \"yes\" or \"no\".",
+            "Do other people enter or leave the scene (helper, guest waiting to eat)? Please answer only with \"yes\" or \"no\".",
+            "Are there interactions with multiple ingredients, utensils, or appliances (knife, pan, oven)? Please answer only with \"yes\" or \"no\".",
+            "Is there any camera movement or shot change (close-up of hands/food, wide kitchen view)? Please answer only with \"yes\" or \"no\".",
+            "Does the environment change (ingredients transform/disappear, food cooks/changes color, steam appears)? Please answer only with \"yes\" or \"no\"."
+        ]
+    },
+    "skateboard1": {
+        "prompt": "Skateboarding",
+        "questions": [
+            "Are there any clear skateboarding tricks or actions (ollie, kickflip, grinding, riding, pushing, falling)? 1 point is awarded for each valid action. Please give me only the final score.",
+            "Does the scene expand to show a larger skatepark area, street spot, or surrounding environment? Please answer only with \"yes\" or \"no\".",
+            "Do other skaters, bystanders, or friends enter or leave the scene? Please answer only with \"yes\" or \"no\".",
+            "Are there interactions with skatepark features (rails, ramps, ledges, stairs) or the skateboard itself? Please answer only with \"yes\" or \"no\".",
+            "Is there any camera movement or shot change (low-angle trick shot, follow cam, wide view, slow motion)? Please answer only with \"yes\" or \"no\".",
+            "Does the environment change (different obstacles used, time of day/lighting changes, weather conditions)? Please answer only with \"yes\" or \"no\"."
+        ]
+    },
+    "picnic1": {
+        "prompt": "Having a picnic",
+        "questions": [
+            "Are there any clear picnic-related actions (unpacking food, eating, drinking, spreading blanket, playing games, cleaning up)? 1 point is awarded for each valid action. Please give me only the final score.",
+            "Does the scene expand to show more of the picnic area, surrounding nature, or park landscape? Please answer only with \"yes\" or \"no\".",
+            "Do other picnickers, park visitors, or animals enter or leave the scene? Please answer only with \"yes\" or \"no\".",
+            "Are there interactions with picnic items (blanket, basket, food containers, utensils, games like frisbee)? Please answer only with \"yes\" or \"no\".",
+            "Is there any camera movement or shot change (close-up of food, wide scenic view, focus on people interacting)? Please answer only with \"yes\" or \"no\".",
+            "Does the environment change (food gets consumed, blanket arrangement changes, weather/lighting shifts)? Please answer only with \"yes\" or \"no\"."
+        ]
+    },
+    "fishing1": {
+        "prompt": "Fishing",
+        "questions": [
+            "Are there any clear fishing-related actions (casting, reeling, baiting hook, waiting, catching fish, releasing fish)? 1 point is awarded for each valid action. Please give me only the final score.",
+            "Does the scene expand to show more of the fishing location (wider river/lake view, shoreline, surrounding nature)? Please answer only with \"yes\" or \"no\".",
+            "Do other fishermen, companions, or wildlife enter or leave the scene? Please answer only with \"yes\" or \"no\".",
+            "Are there interactions with fishing equipment (rod, reel, tackle box, bait, net) or the caught fish? Please answer only with \"yes\" or \"no\".",
+            "Is there any camera movement or shot change (close-up of water/float, wide landscape shot, focus on facial reactions)? Please answer only with \"yes\" or \"no\".",
+            "Does the environment change (time of day progresses, weather changes, water conditions shift)? Please answer only with \"yes\" or \"no\"."
+        ]
+    },
+    "housework1": {
+        "prompt": "Doing housework",
+        "questions": [
+            "Are there any clear housework actions (sweeping, mopping, dusting, washing dishes, folding clothes, vacuuming)? 1 point is awarded for each valid action. Please give me only the final score.",
+            "Does the scene expand to show more rooms or different areas of the house? Please answer only with \"yes\" or \"no\".",
+            "Do family members, pets, or visitors enter or leave the scene? Please answer only with \"yes\" or \"no\".",
+            "Are there interactions with cleaning tools and objects (broom, mop, vacuum, cleaning supplies)? Please answer only with \"yes\" or \"no\".",
+            "Is there any camera movement or shot change (close-up of tasks, wide room view, following movement between rooms)? Please answer only with \"yes\" or \"no\".",
+            "Does the environment change (areas become cleaner, items are put away, lighting shifts)? Please answer only with \"yes\" or \"no\"."
+        ]
+    },
+    "drawing1": {
+        "prompt": "Sketching in the park",
+        "questions": [
+            "Are there any clear sketching-related actions (drawing lines, erasing, flipping sketchbook pages)? 1 point is awarded for each valid action. Please give me only the final score.",
+            "Does the scene expand to show more of the park environment, the subject being drawn, or surrounding scenery? Please answer only with \"yes\" or \"no\".",
+            "Do other park visitors, animals, or onlookers enter or leave the scene? Please answer only with \"yes\" or \"no\".",
+            "Are there interactions with art supplies (sketchbook, pencils, eraser, sharpener) or the drawing subject? Please answer only with \"yes\" or \"no\".",
+            "Is there any camera movement or shot change (close-up of drawing hands/sketch, wide park view, alternating between subject and drawing)? Please answer only with \"yes\" or \"no\".",
+            "Does the environment change (drawing progresses, lighting/time of day shifts, subject moves or changes)? Please answer only with \"yes\" or \"no\"."
+        ]
+    },
+    "gym1": {
+        "prompt": "Exercising at the gym",
+        "questions": [
+            "Are there any clear exercise actions (lifting weights, using cardio machines, stretching, doing push-ups, using resistance bands)? 1 point is awarded for each valid action. Please give me only the final score.",
+            "Does the scene expand to show more of the gym area, different equipment zones, or other gym-goers? Please answer only with \"yes\" or \"no\".",
+            "Do other gym members, trainers, or staff enter or leave the scene? Please answer only with \"yes\" or \"no\".",
+            "Are there interactions with gym equipment (weights, machines, mats, water bottle, towel)? Please answer only with \"yes\" or \"no\".",
+            "Is there any camera movement or shot change (close-up of specific exercises, wide gym view, follow movement between stations)? Please answer only with \"yes\" or \"no\".",
+            "Does the environment change (equipment settings change, visible sweat/fatigue, lighting/time progression)? Please answer only with \"yes\" or \"no\"."
+        ]
+    },
+    "shopping1": {
+        "prompt": "Shopping at a market",
+        "questions": [
+            "Are there any clear shopping actions (browsing items, selecting products, examining quality, paying, bagging items)? 1 point is awarded for each valid action. Please give me only the final score.",
+            "Does the scene expand to show more market stalls, different aisles, or the overall market environment? Please answer only with \"yes\" or \"no\".",
+            "Do other shoppers, vendors, or companions enter or leave the scene? Please answer only with \"yes\" or \"no\".",
+            "Are there interactions with products, shopping bags, baskets, or payment methods? Please answer only with \"yes\" or \"no\".",
+            "Is there any camera movement or shot change (close-up of products/hands, wide market view, follow movement between stalls)? Please answer only with \"yes\" or \"no\".",
+            "Does the environment change (items are picked up/purchased, shopping bag fills, lighting/time of day shifts)? Please answer only with \"yes\" or \"no\"."
+        ]
+    },
+    "crosswalk1": {
+        "prompt": "Crossing the street",
+        "questions": [
+            "Are there any clear street-crossing actions (waiting at curb, looking both ways, walking, running, stopping for traffic)? 1 point is awarded for each valid action. Please give me only the final score.",
+            "Does the scene expand to show more of the street intersection, sidewalks, or surrounding buildings? Please answer only with \"yes\" or \"no\".",
+            "Do other pedestrians, vehicles, or cyclists enter or leave the scene? Please answer only with \"yes\" or \"no\".",
+            "Are there interactions with traffic signals, crosswalk markings, or obstacles while crossing? Please answer only with \"yes\" or \"no\".",
+            "Is there any camera movement or shot change (following the person, wide street view, close-up of traffic signal)? Please answer only with \"yes\" or \"no\".",
+            "Does the environment change (traffic light changes, vehicle flow shifts, lighting/weather conditions change)? Please answer only with \"yes\" or \"no\"."
+        ]
+    },
+    "sandcastle1": {
+        "prompt": "Building a sandcastle",
+        "questions": [
+            "Are there any clear sandcastle-building actions (shaping towers, carving details, digging moats, adding decorations, smoothing surfaces)? 1 point is awarded for each valid action. Please give me only the final score.",
+            "Does the scene expand to show more of the beach area, ocean, or surrounding sandcastles? Please answer only with \"yes\" or \"no\".",
+            "Do other builders, children, or beachgoers enter or leave the scene? Please answer only with \"yes\" or \"no\".",
+            "Are there interactions with building tools (bucket, shovel, molds) or decorative items (shells, flags, seaweed)? Please answer only with \"yes\" or \"no\".",
+            "Is there any camera movement or shot change (close-up of hands sculpting, wide beach view, top-down shot of castle)? Please answer only with \"yes\" or \"no\".",
+            "Does the environment change (sandcastle progresses from start to finish, tide changes, lighting/time of day shifts)? Please answer only with \"yes\" or \"no\"."
+        ]
+    },
+    "presentation1": {
+        "prompt": "Giving a presentation",
+        "questions": [
+            "Are there any clear presentation actions (pointing to slides, gesturing, making eye contact, advancing slides, using a clicker)? 1 point is awarded for each valid action. Please give me only the final score.",
+            "Does the scene expand to show more of the room, audience, or presentation screen? Please answer only with \"yes\" or \"no\".",
+            "Do audience members have any reactions? Please answer only with \"yes\" or \"no\".",
+            "Are there interactions with presentation tools (laptop, clicker, whiteboard, notes) or visual aids? Please answer only with \"yes\" or \"no\".",
+            "Is there any camera movement or shot change (close-up of presenter/slides, wide audience shot, cut between speaker and screen)? Please answer only with \"yes\" or \"no\".",
+            "Does the environment change (slides progress, audience reactions shift, lighting focuses change)? Please answer only with \"yes\" or \"no\"."
+        ]
+    },
+    "planting1": {
+        "prompt": "Planting in the garden",
+        "questions": [
+            "Are there any clear gardening actions (digging holes, placing plants, watering, spreading soil/mulch, trimming)? 1 point is awarded for each valid action. Please give me only the final score.",
+            "Does the scene expand to show more of the garden layout, surrounding yard, or different garden beds? Please answer only with \"yes\" or \"no\".",
+            "Do helpers, family members, or pets enter or leave the scene? Please answer only with \"yes\" or \"no\".",
+            "Are there interactions with gardening tools (trowel, gloves, watering can, plants, pots)? Please answer only with \"yes\" or \"no\".",
+            "Is there any camera movement or shot change (close-up of hands/plants, wide garden view, time-lapse of growth)? Please answer only with \"yes\" or \"no\".",
+            "Does the environment change (plants are placed in soil, area transforms from bare to planted, lighting/weather shifts)? Please answer only with \"yes\" or \"no\"."
+        ]
+    },
+    "washing_car1": {
+        "prompt": "Washing the car",
+        "questions": [
+            "Are there any clear car-washing actions (soaping, scrubbing, rinsing, drying, waxing, cleaning windows)? 1 point is awarded for each valid action. Please give me only the final score.",
+            "Does the scene expand to show more of the driveway, yard, or surrounding area? Please answer only with \"yes\" or \"no\".",
+            "Do helpers, family members, or neighbors enter or leave the scene? Please answer only with \"yes\" or \"no\".",
+            "Are there interactions with washing tools (hose, sponge, bucket, towels, soap) or parts of the car? Please answer only with \"yes\" or \"no\".",
+            "Is there any camera movement or shot change (close-up of scrubbing/drying, wide view of car, focus on water/soap details)? Please answer only with \"yes\" or \"no\".",
+            "Does the environment change (car transitions from dirty to clean, soap/water appears then disappears, lighting shifts)? Please answer only with \"yes\" or \"no\"."
+        ]
+    },
+    "skiing1": {
+        "prompt": "Skiing on a slope",
+        "questions": [
+            "Are there any clear skiing actions (turning, carving, stopping, riding lift, getting up after fall, jumping)? 1 point is awarded for each valid action. Please give me only the final score.",
+            "Does the scene expand to show more of the mountain slope, ski lodge, or surrounding ski trails? Please answer only with \"yes\" or \"no\".",
+            "Do other skiers, snowboarders, or instructors enter or leave the scene? Please answer only with \"yes\" or \"no\".",
+            "Are there interactions with ski equipment (poles, skis, goggles, lift) or snow features? Please answer only with \"yes\" or \"no\".",
+            "Is there any camera movement or shot change (follow cam behind skier, POV shot, wide mountain view)? Please answer only with \"yes\" or \"no\".",
+            "Does the environment change (skiing through different trail sections, weather/snow conditions shift, lighting/time changes)? Please answer only with \"yes\" or \"no\"."
+        ]
+    },
+    "experiment1": {
+        "prompt": "Doing a science experiment",
+        "questions": [
+            "Are there any clear experiment actions (measuring liquids, mixing chemicals, observing reactions, recording data, using lab equipment)? 1 point is awarded for each valid action. Please give me only the final score.",
+            "Does the scene expand to show more of the lab/workspace, additional equipment, or experiment setup? Please answer only with \"yes\" or \"no\".",
+            "Do lab partners, teachers, or assistants enter or leave the scene? Please answer only with \"yes\" or \"no\".",
+            "Are there interactions with lab equipment (beakers, test tubes, microscope, safety goggles, burner) or experimental materials? Please answer only with \"yes\" or \"no\".",
+            "Is there any camera movement or shot change (close-up of reactions/hands, wide lab view, macro shot of specimens)? Please answer only with \"yes\" or \"no\".",
+            "Does the environment change (chemicals mix and react, states/materials transform, experimental setup progresses)? Please answer only with \"yes\" or \"no\"."
+        ]
+    },
+    "kite1": {
+        "prompt": "Flying a kite",
+        "questions": [
+            "Are there any clear kite-flying actions (running to launch, letting out string, steering/tugging, reeling in, adjusting to wind)? 1 point is awarded for each valid action. Please give me only the final score.",
+            "Does the scene expand to show more of the field/park, sky, or surrounding environment? Please answer only with \"yes\" or \"no\".",
+            "Do other kite flyers, family members, or pets enter or leave the scene? Please answer only with \"yes\" or \"no\".",
+            "Are there interactions with the kite, string/spool, wind, or control handles? Please answer only with \"yes\" or \"no\".",
+            "Is there any camera movement or shot change (follow the kite in sky, ground-level view of flyer, wide scenic shot)? Please answer only with \"yes\" or \"no\".",
+            "Does the environment change (kite ascends/descends, wind conditions change, lighting/time of day shifts)? Please answer only with \"yes\" or \"no\"."
+        ]
+    }
+}

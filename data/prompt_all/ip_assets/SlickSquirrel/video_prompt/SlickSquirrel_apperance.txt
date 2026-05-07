@@ -1,0 +1,18 @@
+A 360-degree turntable video for “Slick Squirrel” focusing on canonical appearance and expressive face.
+
+Character design must match exactly:
+- Cartoon squirrel with rich brown fur and creamy beige belly/chest.
+- Large expressive white eyes with black pupils; wide toothy grin with two buck teeth and pink tongue; small black nose.
+- Large pointed ears with pink interiors.
+- Very large bushy tail curving over the back ending in a tuft.
+- Strong upright posture; hands-on-hips pose; four-toed feet.
+
+Shot / motion requirements:
+- Full-body, centered, fixed camera; bright classic-cartoon look.
+- Slow smooth 360° rotation with holds at front/side/back to show the huge tail shape and confident pose silhouette.
+- Keep tail volume and fur texture consistent.
+
+Facial acting requirements:
+- Dynamic expressions: smug grin, sly smirk, surprised eye bulge, scheming narrowed eyes, then back to confident grin.
+
+

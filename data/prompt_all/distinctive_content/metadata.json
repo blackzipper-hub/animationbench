@@ -1,0 +1,159 @@
+{
+    "common1": {
+        "questions": [
+            "In the video, does the character perform a fast backflip?",
+            "In the video, is there a small dust puff when the character lands?"
+        ],
+        "prompt": "Character executes a fast backflip, landing in a small dust puff."
+    },
+    "common3": {
+        "questions": [
+            "In the video, does the character get punched heavily in the head?",
+            "In the video, are there stars, little birds, or tiny Zzz rings orbiting above the dazed character's head?",
+            "In the video, do the character's eyes turn into spiraled circle shapes after being punched?"
+        ],
+        "prompt": "After a heavy punch to the head, the character is dazed: stars, little birds, and tiny Zzz rings orbit above, and the eyes turn into spiraled circle eyes."
+    },
+    "common4a": {
+        "questions": [
+            "In the video, does the character see his crush (a new character enter the scene)?",
+            "In the video, does a big heart pop out exaggeratedly from the character's chest?",
+            "In the video, do the character's eyes instantly become pink heart shapes?"
+        ],
+        "prompt": "Character sees his crush, heart pops out exaggeratedly, and his eyes instantly become pink heart shapes."
+    },
+    "common5": {
+        "questions": [
+            "In the video, does a blinding blue-white bolt hit the character?",
+            "In the video, does the character's body darken into a black silhouette with glowing neon bones inside?",
+            "In the video, are there electric arcs, sparks, smoke, or embers around the character after being hit?"
+        ],
+        "prompt": "A blinding blue-white bolt hits the character; the body darkens into a black silhouette revealing a glowing, stylized skeletal outline (x\u2011ray neon bones), electric arcs and sparks, smoke and embers."
+    },
+    "gun2": {
+        "questions": [
+            "In the video, does the barrel of the gun become soft and pliable?",
+            "In the video, does the gun barrel dangle like a rope?"
+        ],
+        "prompt": "The barrel of the rifle held by the character becomes pliable, dangling like a rope."
+    },
+    "common6": {
+        "questions": [
+            "In the video, does the character start spinning in place?",
+            "In the video, does the character spin faster and faster?",
+            "In the video, does the spinning character become a tornado?"
+        ],
+        "prompt": "The character starts spinning in place, getting faster and faster, until it becomes a tornado."
+    },
+    "common7": {
+        "questions": [
+            "In the video, does the character pull a wooden door from his pocket?",
+            "In the video, is the wooden door clearly larger than the character's pocket?"
+        ],
+        "prompt": "The character pulled a wooden door from his pocket that was much larger than his pocket."
+    },
+    "common8": {
+        "questions": [
+            "In the video, can the character's arms extend like rubber?",
+            "In the video, do the rubber arms stretch outside the video scene, which means part of the arms are not visible?",
+            "In the video, do the rubber arms grab apples?"
+        ],
+        "prompt": "The character's arms stretch out like rubber, beyond the frame, and then grab an apple and snap back."
+    },
+    "common9": {
+        "questions": [
+            "In the video, do springs extend from the soles of the character's shoes?",
+            "In the video, does the character crouch down and charge up?",
+            "In the video, does the character leap high into the air using the springs?"
+        ],
+        "prompt": "Springs extend from the soles of the character's shoes, and the character crouches down, charges up, and leaps into the air."
+    },
+    "stone1": {
+        "questions": [
+            "In the video, does the character pick up a stone from the ground?",
+            "In the video, does the stone become soft like clay in the character's hands?",
+            "In the video, does the character roll the stone into a ball?"
+        ],
+        "prompt": "The character picks up a stone from the ground; the stone becomes clay-like in his hands, and the character easily rolls it into a ball."
+    },
+    "common10": {
+        "questions": [
+            "In the video, does the character shoot a red laser from their eyes?",
+            "In the video, does the red laser hit the ground ahead?",
+            "In the video, does the laser carve a scorched crack in the ground?"
+        ],
+        "prompt": "The character shoots a red laser from their eyes, carving a scorched crack in the ground ahead."
+    },
+    "common11": {
+        "questions": [
+            "In the video, does the ground beneath the character turn to liquid?",
+            "In the video, does the character sink into the liquid ground?",
+            "In the video, does only the character's head remain above the surface while sinking?"
+        ],
+        "prompt": "The ground beneath the character suddenly turns to liquid, causing the character to sink slowly, with only their head remaining above the surface."
+    },
+    "common12": {
+        "questions": [
+            "In the video, does the character inhale deeply (a noticeable airflow can be seen)?",
+            "In the video, does the character's body swell up?",
+            "In the video, does the character's body become a round sphere shape?"
+        ],
+        "prompt": "The character inhales deeply, and as the character draws in the gas, its body swells into a round sphere."
+    },
+    "common13": {
+        "questions": [
+            "In the video, does the character show a look of despair?",
+            "In the video, does the character's whole body turn black-and-white?",
+            "In the video, does everything else in the scene remain in color while the character is black-and-white?"
+        ],
+        "prompt": "The character shows a look of despair, and its whole figure turns black-and-white while everything else remains colored."
+    },
+    "common14": {
+        "questions": [
+            "In the video, does the character shift from 3D to a 2D paper figure?",
+            "In the video, does the character look like a flat paper cutout?",
+            "In the video, does the paper figure stick to the ground and move along it?"
+        ],
+        "prompt": "The character instantly shifts from 3D to a 2D paper figure, then sticks to the ground and moves."
+    },
+    "common15": {
+        "questions": [
+            "In the video, does the character's body slowly fade?",
+            "In the video, does the character become completely transparent?",
+            "In the video, does the character completely disappear?"
+        ],
+        "prompt": "The character\u2019s body slowly fades until it becomes completely transparent and disappears."
+    },
+    "common16": {
+        "questions": [
+            "In the video, does a white laser hit the character?",
+            "In the video, does a puff of smoke cover the character?",
+            "In the video, has the character transformed into a frog when the smoke clears?"
+        ],
+        "prompt": "A white laser hits the character; a puff of smoke rises to cover them, and when the smoke clears, they have transformed into a frog."
+    },
+    "common17": {
+        "questions": [
+            "In the video, does the character sprint forward at breakneck speed?",
+            "In the video, do the character's feet turn into wheels?",
+            "In the video, does the character run using wheel-feet?"
+        ],
+        "prompt": "The character sprints forward at breakneck speed with his feet becomes wheel o\u2019 feet."
+    },
+    "pool1": {
+        "questions": [
+            "In the video, does the character dive from a pool diving board?",
+            "In the video, does the pool water turn solid like a hard surface?",
+            "In the video, does the character crash heavily into the solid water surface?"
+        ],
+        "prompt": "The character dives from the pool\u2019s diving board, but the water in the pool turns solid, causing them to crash heavily into it."
+    },
+    "shadow1": {
+        "questions": [
+            "In the video, does the character's shadow rise up from the ground?",
+            "In the video, does the shadow stand up independently?",
+            "In the video, does the shadow become a black silhouette that looks exactly like the character?"
+        ],
+        "prompt": "The character\u2019s shadow rises and stands, turning into an entirely black silhouette that looks exactly like him."
+    }
+}

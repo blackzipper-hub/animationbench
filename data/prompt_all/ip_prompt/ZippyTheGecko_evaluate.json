@@ -1,0 +1,85 @@
+{
+  "ip_profile": {
+    "character_name": "Zippy the Gecko",
+    "canonical_appearance": {
+      "summary": "A stylized, anthropomorphic orange gecko with a smooth, glossy texture, a prominent dorsal crest, and a long, curved tail, consistently riding a black balance bike in a clean, minimalist environment.",
+      "details": {
+        "front": [
+          "Is Zippy a vibrant orange gecko with a smooth, glossy finish?",
+          "Does it have a large, expressive black eye with a white highlight, a wide, friendly smile with a visible upper row of small teeth, and a white underbelly?",
+          "Does its head feature a prominent, spiky dorsal crest of five sharp, pointed orange spikes?",
+          "Does the gecko have two arms and two legs, all proportioned for bipedal movement?",
+          "Is it seated on a black balance bike, gripping the handlebars with both hands?",
+          "Does the bike have a simple black frame, black tires, and black wheels with a five-spoke design?"
+        ],
+        "side": [
+          "Does the side view reveal Zippy's elongated, muscular body and its long, curved orange tail that extends behind it?",
+          "Is the dorsal crest clearly visible, with its spiky profile?",
+          "Is the character's posture upright and balanced, with one foot on a pedal and the other resting on the frame?",
+          "Are the bike's frame, handlebars, and wheels all visible in profile?",
+          "Does the side view showcase the character's interaction with the vehicle?",
+          "Is the overall silhouette from the side consistent with the described design?"
+        ],
+        "back": [
+          "Does the back view highlight Zippy's long, curved tail and the full extent of its spiky dorsal crest?",
+          "Is the character's back smooth and rounded, with no visible limbs or features other than the tail and the crest?",
+          "Is the black balance bike seen from behind, with the rear wheel and frame clearly visible?",
+          "Does the back view show the character's seated position?",
+          "Is the way its legs are positioned to operate the bike visible from behind?",
+          "Does the back view maintain the character's distinctive silhouette?"
+        ]
+      }
+    },
+    "canonical_behavior": {
+      "Personality": [
+        "Is Zippy energetic, confident, and playful throughout the video?",
+        "Does the character exude a cheerful and adventurous presence?",
+        "Does the character's posture suggest readiness and excitement for action?",
+        "Is the character's overall demeanor consistent with being energetic, confident, and playful?",
+        "Does the character maintain an adventurous and exciting presence?",
+        "Combining posture, energy level, and presence, can Zippy effectively convey its energetic, confident, and playful personality?"
+      ],
+      "Action Logic": [
+        "Does Zippy use its balance bike as a primary mode of locomotion?",
+        "Does the character demonstrate agility and control when using the bike?",
+        "Does the character navigate its environment with a focus on speed and maneuverability?",
+        "Does the character use the bike's simple mechanics to propel itself forward?",
+        "Are the character's movements consistent with using the balance bike as the primary locomotion method?",
+        "Is the problem-solving approach consistent with using bike-based locomotion and agility?"
+      ],
+      "Atmosphere/Vibe": [
+        "Is the atmosphere bright, clean, and minimalist throughout the video?",
+        "Is the lighting soft and even, creating a calm and inviting atmosphere?",
+        "Is the pacing steady and smooth, suggesting a focus on exploration and movement?",
+        "Does the visual style and environment support the bright, clean, and minimalist atmosphere?",
+        "Does the overall atmosphere create a calm and inviting feeling?",
+        "Does the combination of lighting, environment, and pacing create the intended bright, clean, and minimalist atmosphere?"
+      ],
+      "Signature": [
+        "Is Zippy lightweight and fast?",
+        "Does the character move with a smooth, gliding gait, maintaining perfect balance on the bike?",
+        "Is the animation style fluid and dynamic, emphasizing its speed and agility?",
+        "Are the character's movements consistent with the described smooth, gliding, and balanced style?",
+        "Does the overall animation style emphasize speed and agility?",
+        "Can viewers clearly identify Zippy's unique movement signature through its smooth, gliding gait and perfect balance on the bike?"
+      ],
+      "Facial Acting": [
+        "Are Zippy's eyes large and expressive, with a consistent, wide-eyed look that conveys excitement and focus?",
+        "Does the character's mouth remain in a constant, friendly smile, with no significant changes in expression?",
+        "Do the eyes track forward, indicating a clear sense of direction and purpose?",
+        "Does the character's facial acting remain consistent with the described wide-eyed and focused style?",
+        "Can Zippy effectively communicate its excitement and focus through its large, expressive eyes?",
+        "Does the overall facial acting reinforce the character's excited and focused demeanor?"
+      ],
+      "Environmental Interaction": [
+        "Does Zippy interact with the balance bike by gripping the handlebars and pedaling?",
+        "Does the character demonstrate a seamless integration with the vehicle?",
+        "Are the character's feet positioned on the pedals, and does the body remain stable and balanced throughout the motion?",
+        "Is the interaction smooth and controlled, with no signs of strain or difficulty?",
+        "Are the character's interactions with the bike consistent with using handlebars and pedals?",
+        "Does the overall environmental interaction demonstrate Zippy's seamless and controlled integration with the balance bike?"
+      ]
+    }
+  }
+}
+

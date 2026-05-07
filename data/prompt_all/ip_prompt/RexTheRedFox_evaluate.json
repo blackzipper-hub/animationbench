@@ -1,0 +1,85 @@
+{
+  "ip_profile": {
+    "character_name": "Rex the Red Fox",
+    "canonical_appearance": {
+      "summary": "A confident anthropomorphic red fox with a vibrant orange coat and a large, bushy tail, dressed in a dramatic red cloak and a matching vest over orange trousers, exuding a heroic and theatrical presence.",
+      "details": {
+        "front": [
+          "Does Rex stand in a heroic, confident pose, facing forward with hands on hips?",
+          "Does he have a vibrant orange coat with a cream-colored chest and muzzle?",
+          "Does his face feature large, expressive eyes with long black lashes, a small black nose, and a wide, charming smile?",
+          "Are his ears pointed and tufted with black tips?",
+          "Does he wear a long, flowing red cloak with a high collar, a fitted red vest with three visible buttons, and bright orange trousers?",
+          "Are his arms covered in black gloves extending to his elbows, does he wear black boots, and is his large, fluffy tail curled behind him with a white tip?"
+        ],
+        "side": [
+          "Is Rex's posture upright and poised from the side view?",
+          "Does the side view highlight the sleek lines of his body, the voluminous red cloak draped over his shoulder, and the prominent, fluffy tail with its white tip?",
+          "Are the orange of his trousers and the red of his vest clearly visible, along with the black gloves and boots?",
+          "Is his head turned slightly, showing his profile with a confident smile?",
+          "Does the side profile maintain the character's heroic and confident appearance?",
+          "Is the overall silhouette from the side consistent with the described design?"
+        ],
+        "back": [
+          "Is the high collar of Rex's red cloak prominent from behind?",
+          "Does the cloak flow down his back and to the sides?",
+          "Is his large, bushy tail curled around his legs, with the white tip clearly visible?",
+          "Are the back of his red vest and the top of his orange trousers seen?",
+          "Are his pointed ears visible at the top of his head?",
+          "Is the overall silhouette that of a confident, noble figure?"
+        ]
+      }
+    },
+    "canonical_behavior": {
+      "Personality": [
+        "Is Rex confident, charismatic, and theatrical throughout the video?",
+        "Does he carry himself with a regal and self-assured presence?",
+        "Does he exude charm and leadership?",
+        "Is the character's overall demeanor consistent with being confident and charismatic?",
+        "Does the character maintain a regal and theatrical presence?",
+        "Combining posture, presence, and demeanor, can Rex effectively convey his confident, charismatic, and theatrical personality?"
+      ],
+      "Action Logic": [
+        "Does Rex solve problems with a combination of quick, graceful movements and clever, strategic thinking?",
+        "Are his actions deliberate and often involve using his environment or his cloak for dramatic effect?",
+        "Does the character use quick movements when needed?",
+        "Does the character use strategic thinking to solve problems?",
+        "Are the character's problem-solving methods consistent with the described combination of quick movements and strategic thinking?",
+        "Is the overall action logic consistent with using graceful movements and clever strategy to solve problems?"
+      ],
+      "Atmosphere/Vibe": [
+        "Is the atmosphere heroic fantasy with a touch of whimsy?",
+        "Is the pacing deliberate and cinematic?",
+        "Is there a focus on dramatic reveals and moments of quiet confidence?",
+        "Does the visual style and environment support the heroic fantasy atmosphere?",
+        "Does the overall atmosphere convey a sense of heroic fantasy with whimsy?",
+        "Does the combination of pacing, visual style, and environment create the intended heroic fantasy with whimsy atmosphere?"
+      ],
+      "Signature": [
+        "Does Rex have a slow, deliberate gait with a slight, elegant sway?",
+        "Are his movements fluid and precise, like a seasoned performer?",
+        "Does he often use his cloak as a prop, letting it billow dramatically during key moments?",
+        "Are the character's movements consistent with the described slow, deliberate, and elegant style?",
+        "Does the overall animation style emphasize fluid, precise, and performative movements?",
+        "Can viewers clearly identify Rex's unique movement signature through his elegant sway and dramatic cloak usage?"
+      ],
+      "Facial Acting": [
+        "Are Rex's eyes highly expressive, capable of conveying a wide range of emotions from playful confidence to focused determination?",
+        "Are his smiles wide and genuine?",
+        "Are his reactions immediate and clear?",
+        "Does the character's facial acting remain consistent with the described expressive and immediate style?",
+        "Can Rex effectively communicate his emotions through his expressive eyes and genuine smiles?",
+        "Does the overall facial acting reinforce the character's confident and theatrical demeanor?"
+      ],
+      "Environmental Interaction": [
+        "Does Rex interact with his surroundings with a sense of ownership and control?",
+        "Might he brush a hand across a surface to feel its texture?",
+        "Might he use his cloak to shield himself or create a moment of distraction?",
+        "Are the character's interactions with the environment consistent with using his cloak and hands for dramatic effect?",
+        "Does the overall environmental interaction demonstrate Rex's sense of ownership and control?",
+        "Can viewers observe evidence of Rex's theatrical and controlled environmental interaction?"
+      ]
+    }
+  }
+}
+

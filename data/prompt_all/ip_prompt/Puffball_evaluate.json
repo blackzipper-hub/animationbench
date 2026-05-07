@@ -1,0 +1,85 @@
+{
+  "ip_profile": {
+    "character_name": "Puffball",
+    "canonical_appearance": {
+      "summary": "A small, fluffy kitten with a blue-gray coat, white markings on its chest, paws, and tail tip, and large, expressive eyes. It has a distinctive, spiky tuft of fur on its head and a perpetually curious expression.",
+      "details": {
+        "front": [
+          "Is the kitten's body in a low, crouched running stance with soft, dense blue-gray fur?",
+          "Is there a white patch on its chest and muzzle?",
+          "Is the face round, dominated by enormous, dark, glossy eyes with long, white, upward-curving whiskers?",
+          "Is there a small, pink nose between the eyes, and a prominent, spiky tuft of fur on top of the head?",
+          "Are the ears large and pointed with pink inner linings?",
+          "Are the front paws white, and is the tail bushy with a white tip?"
+        ],
+        "side": [
+          "Is the kitten's body elongated and low to the ground in a playful, forward-bound run?",
+          "Does the blue-gray fur cover its back and sides, with the white chest and paws clearly visible?",
+          "Is the head turned slightly, showing its large eye and the spiky tuft of hair on its crown?",
+          "Is the tail held high and curving slightly, ending in a distinct white plume?",
+          "Are the legs short and powerful, suggesting a quick, energetic gait?",
+          "Does the side profile maintain the playful running posture?"
+        ],
+        "back": [
+          "Is the kitten's back rounded and covered in thick, blue-gray fur?",
+          "Is the large, bushy tail held high and ending in a fluffy white tuft?",
+          "Is the spiky tuft of fur on its head visible from behind?",
+          "Are the short legs visible?",
+          "Is the white fur on its paws apparent as it walks?",
+          "Is the overall shape compact and rounded from the back view?"
+        ]
+      }
+    },
+    "canonical_behavior": {
+      "Personality": [
+        "Is Puffball inquisitive and playful throughout the video?",
+        "Does the character exude a sense of innocent curiosity and gentle energy?",
+        "Does the character's posture suggest it is always ready to explore or engage with its surroundings?",
+        "Is the character's overall demeanor consistent with being inquisitive and playful?",
+        "Does the character maintain a curious and engaging presence throughout the video?",
+        "Combining posture, energy level, and overall demeanor, can Puffball effectively convey its inquisitive and playful personality?"
+      ],
+      "Action Logic": [
+        "Does the character solve problems through direct, physical interaction?",
+        "Does the character rely on its speed, agility, and keen senses (represented by its large eyes) to navigate its environment?",
+        "Does the character often approach obstacles head-on with a curious and determined gait?",
+        "Are the character's problem-solving methods consistent with direct physical interaction?",
+        "Does the character use its speed and agility effectively when navigating the environment?",
+        "Is the overall action logic consistent with the described direct, physical, and agile approach?"
+      ],
+      "Atmosphere/Vibe": [
+        "Is the atmosphere warm, gentle, and whimsical throughout the video?",
+        "Is the lighting soft and even, creating a cozy, inviting atmosphere?",
+        "Is the pacing slow and deliberate, emphasizing the character's cute and endearing nature?",
+        "Does the visual style and environment support the warm, gentle, and whimsical atmosphere?",
+        "Does the overall atmosphere create a cozy and inviting feeling?",
+        "Does the combination of lighting, pacing, and visual design create the intended warm, gentle, and whimsical atmosphere?"
+      ],
+      "Signature": [
+        "Does the character have a light, bouncy gait with a noticeable spring in its step?",
+        "Does the character move with a slight wobble, giving it a weightless, almost floating quality?",
+        "Is the animation style smooth and rounded, with a focus on soft textures and gentle movements?",
+        "Are the character's movements consistent with the described light, bouncy gait with wobble?",
+        "Does the overall animation style emphasize soft textures and gentle movements?",
+        "Can viewers clearly identify Puffball's unique movement signature through its light, bouncy, weightless quality?"
+      ],
+      "Facial Acting": [
+        "Is the character's facial expression primarily a fixed, wide-eyed look of curiosity?",
+        "Are the eyes large and expressive, capable of conveying a range of emotions from wonder to slight surprise?",
+        "Is the mouth a simple, gentle curve, rarely changing, which reinforces its innocent demeanor?",
+        "Does the character's facial acting remain consistent with the described fixed but expressive style?",
+        "Can the character effectively communicate emotions through its large, expressive eyes?",
+        "Does the overall facial acting reinforce the character's innocent and curious demeanor?"
+      ],
+      "Environmental Interaction": [
+        "Does the character interact with its environment by moving through it with purpose?",
+        "Does the character use its paws to feel and explore objects?",
+        "Does the tail often flick or wave as a sign of excitement or focus?",
+        "Is the character drawn to bright or interesting things, approaching them with a cautious yet eager curiosity?",
+        "Are the character's interactions with objects consistent with using paws for exploration?",
+        "Does the overall environmental interaction demonstrate the character's purposeful movement and cautious yet eager curiosity?"
+      ]
+    }
+  }
+}
+

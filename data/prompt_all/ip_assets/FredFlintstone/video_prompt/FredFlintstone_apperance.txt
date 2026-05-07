@@ -1,0 +1,19 @@
+Create a 360-degree turntable video for “Fred Flintstone” focusing on canonical appearance and very expressive facial acting.
+
+Character design must match exactly:
+- Large muscular man, broad rounded face, very long prominent nose.
+- Big white round eyes with small black pupils; wide open-mouthed smile with tongue and teeth.
+- Distinctive thick black spiky hair tuft/crest on top.
+- Orange tunic with black irregular spots and jagged hem; green neckerchief tied at the throat.
+- Barefoot with large flat feet and thick toes.
+
+Shot / motion requirements:
+- Full-body, centered, fixed camera; bright sunny prehistoric-style lighting; clean rocky ground hint is fine.
+- Slow smooth 360° rotation with clear holds at front/side/back to show hair crest, tunic spots/hem, neckerchief knot, and bare feet.
+- No costume drift; keep proportions consistent.
+
+Facial acting requirements (very rich, slapstick-friendly):
+- Cycle through big readable expressions: huge grin, surprised eyes bulge, comedic squint, proud grin, brief open-mouth shout, then back to smile.
+- Keep expression changes exaggerated but consistent with the character’s style.
+
+

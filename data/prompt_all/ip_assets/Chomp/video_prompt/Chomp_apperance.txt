@@ -1,0 +1,20 @@
+Create a clean 360-degree turntable video of the character “Chomp” to showcase canonical appearance and facial acting.
+
+Character design must match exactly:
+- Cheerful anthropomorphic shark, blue top with white underside, rounded cartoon body.
+- Large round head with prominent dorsal fin on top.
+- Enormous round white eyes with black pupils and red irises.
+- Wide open friendly grin showing sharp white triangular teeth and a red tongue.
+- Two small stubby legs with three-toed feet; pectoral fins act as arms; large tail fin curves upward.
+
+Shot / motion requirements:
+- Full-body, centered, fixed camera, simple uncluttered bright studio background, soft even lighting.
+- Slow smooth 360° rotation (front → side → back → side → front). Pause briefly at front/side/back to clearly show details.
+- Keep proportions and colors stable with no morphing.
+
+Facial acting requirements (make expressions rich but still “Chomp”):
+- Maintain the friendly open-mouthed grin as the default.
+- Add expressive eye acting: blinks, eye squints, excited widening, quick glance left/right, joyful surprise.
+- Add subtle body-language reactions that match a cheerful shark (tiny bounce, tail swish) without changing the design.
+
+

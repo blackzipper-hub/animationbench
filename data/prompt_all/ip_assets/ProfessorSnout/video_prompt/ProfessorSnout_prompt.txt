@@ -1,0 +1,18 @@
+You are generating a video prompt for a specific IP.
+IP_SETTING:
+ipprofilecharacternameProfessorSnoutcanonicalappearanceGeneralfeaturesStoutanthropomorphicpigdetectivewithbrownfedorablackrimmedglassesyellowshirtstripedtietatteredbrownvestpinksnoutlargeearscurlytailFrontviewConfidentexpressionwithslightsmilewidewhiteeyeswithblackpupilsleftarmbentwithclenchedfistrighthandholdingathinpointerSideviewFloppypinkearssideprofileofsnoutandglassesheadslightlyraisedleftarmbentBackviewFedoravestandshirtvisibletatteredvestedgeprominentpinkearssmalltuftonhatcurlytailcanonicalbehaviorPersonalityConfidentintelligentselfassuredairofanalyticalsuperiorityActionLogicSolvesproblemsmethodicallyusespointertoindicateevidencewithprecisemovementsSignatureSlowdeliberatewaddlinggaitwithexpressiveheadturnsFacialActingEyeswidenforsurpriseandnarrowforfocusedanalysisEnvironmentalInteractionManipulatesobjectspreciselyoftenpointingorgesturingwithpointer
+
+TASK:
+Generate a single video using the IP setting above.
+Use the following action description as the core content.
+ACTION:
+Scene & actions (show environment interaction clearly):
+- Simple detective desk scene with 2–3 props (a magnifying glass, a note card, a small clue object).
+- Professor Snout waddles in slowly, stops, turns head sharply to scan the scene.
+- He picks up the magnifying glass with a precise grip, inspects the clue, then points with the pointer to “explain” the evidence.
+- End with a smug pose and a confident nod.
+
+Object Color：
+- magnifying glass: clear glass lens with dark brown wooden handle and silver metal rim
+- note card: cream-colored card with black ink text
+- small clue object: golden key with bronze details

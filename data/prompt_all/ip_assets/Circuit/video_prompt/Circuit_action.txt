@@ -1,0 +1,9 @@
+Generate an action-focused video for the robot “Circuit,” highlighting canonical behavior and eye acting.
+
+Behavior cues: Curious, calm, analytical; upright alert posture. Scans before acting, then manipulates objects with articulated hands. Movements are precise and efficient, with smooth gliding and slight bounce. Sterile futuristic lab with cool lighting.
+
+Scene & actions: Simple lab floor with 2–3 props (small cube, lever panel, short obstacle). Circuit pauses to scan (eye tracking, glow intensifies), picks up the cube and places it precisely. It then glides forward, navigates the obstacle, and uses the raised arm to activate the lever panel. Feet and hands must clearly contact floor and props.
+
+Eye acting: Smooth tracking, brief lock during analysis, pulsing glow for focus. Micro eye shifts show curiosity, settling to a calm glow after completion.
+
+Object colors: Cube—metallic silver with blue LED edges; lever panel—dark gray with bright green button; obstacle—matte black block.

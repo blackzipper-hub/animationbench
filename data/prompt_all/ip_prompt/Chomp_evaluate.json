@@ -1,0 +1,76 @@
+{
+  "ip_profile": {
+    "character_name": "Chomp",
+    "canonical_appearance": {
+      "summary": "A cheerful, anthropomorphic shark character with a blue and white color scheme, large expressive eyes, and a wide, toothy grin. It stands on two legs and has a rounded, cartoonish body with a prominent dorsal fin and a large tail fin.",
+      "details": {
+        "front": [
+          "Does the character stand upright on two legs with a large, round head and prominent dorsal fin on top?",
+          "Are the eyes enormous, round, white with black pupils and red irises, conveying a friendly and excited expression?",
+          "Is the mouth wide open in a grin, revealing sharp, white, triangular teeth and a red tongue?",
+          "Is the body smooth and rounded, with blue color on top transitioning to white underside?",
+          "Are the two legs small and stubby, ending in three-toed feet?",
+          "Are the two pectoral fins functioning as arms, and is the tail fin large and curving upward?"
+        ],
+        "side": [
+          "Is the large dorsal fin visible on top of the head from the side profile?",
+          "Is the body smooth and curved blue, tapering from wide torso to narrow tail?",
+          "Is the pectoral fin extended forward and the tail fin large and fanned out?",
+          "Are the legs straight, supporting the character's weight?",
+          "Is the eye large and round, and the mouth open in a wide, friendly grin showing teeth and tongue?",
+          "Is the white underbelly visible along the side of the body?"
+        ],
+        "back": [
+          "Is the rounded blue body clearly visible from the back view?",
+          "Is the large tail fin prominent and curving upward with a smooth, rounded shape?",
+          "Is the dorsal fin visible on top of the head from behind?",
+          "Are the pectoral fins positioned at the sides when viewed from the back?",
+          "Are the legs visible, supporting the character's weight?",
+          "Is the character's back a smooth, continuous blue surface with no visible markings or textures?"
+        ]
+      }
+    },
+    "canonical_behavior": {
+      "Personality": [
+        "Is the character's overall posture upright and able to reflect a confident state?",
+        "Does the character maintain a wide, open-mouthed smile consistently across different segments of the video?",
+        "From the character's movement range and energetic demeanor, can it intuitively convey the trait of being energetic?",
+        "Does the character's overall performance (including facial expressions and physical details) give people a friendly and approachable impression?",
+        "Does the character maintain a perpetually cheerful tone throughout the entire video, without showing depressed or dull states?",
+        "Combining posture, facial expressions and personality traits, can the character effectively convey the core attitudes of excitement and approachability?"
+      ],
+      "Action Logic": [
+        "Does the character solve problems through direct, physical action rather than indirect or passive methods?",
+        "Is the character's large tail fin consistently used for propulsion and balance throughout the video?",
+        "Are the pectoral fins effectively used for manipulation and support when interacting with objects?",
+        "Does the character move with a confident, slightly bouncy gait that matches the described action logic?",
+        "When the character needs to move, does it use its legs to walk or run in a way that demonstrates the described problem-solving approach?",
+        "Are the character's physical actions consistent with solving problems through direct interaction rather than observation or planning?"
+      ],
+      "Signature": [
+        "Does the character have a heavy, grounded gait with a slight bounce that is visible throughout the video?",
+        "Does the character move with a sense of weight and momentum that matches the described signature?",
+        "Is the animation style smooth and fluid, with a focus on exaggerated, expressive movements?",
+        "Are the character's movements consistent with the described heavy, grounded gait with slight bounce?",
+        "Does the overall animation style emphasize exaggerated, expressive movements as described?",
+       ],
+      "Facial Acting": [
+        "Is the character's facial expression static but highly expressive due to its large eyes and wide grin?",
+        "Are the eyes always wide and bright throughout the video, maintaining the described facial acting style?",
+        "Is the mouth always open in a smile, consistent with the described static expression?",
+        "Are the character's reactions conveyed through body language and eye movement rather than facial changes?",
+        "Does the character's facial acting remain consistent with the described static but expressive style?",
+        "Can the character effectively communicate emotions and reactions through its large eyes and body language despite the static facial expression?"
+      ],
+      "Environmental Interaction": [
+        "Does the character interact with its environment by walking and running as described?",
+        "Does the character use its fins to grasp objects when interacting with the environment?",
+        "Does the character move through the world with confidence and purpose?",
+        "Does the character leave a slight shadow behind it, indicating proper environmental interaction?",
+        "Are the character's interactions with objects and surroundings consistent with using fins for grasping?",
+        "Does the overall environmental interaction demonstrate the character's confident and purposeful movement through the world?"
+      ]
+    }
+  }
+}
+

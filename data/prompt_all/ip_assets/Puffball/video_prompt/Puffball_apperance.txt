@@ -1,0 +1,18 @@
+Create a 360-degree turntable video for “Puffball” focusing on canonical kitten appearance and expressive facial acting.
+
+Character design must match exactly:
+- Small fluffy kitten with soft dense blue-gray coat.
+- White markings on chest and muzzle; white front paws; bushy tail with white tip.
+- Enormous dark glossy eyes; long white upward-curving whiskers; small pink nose.
+- Prominent spiky tuft of fur on top of head; large pointed ears with pink inner linings.
+
+Shot / motion requirements:
+- Full-body, centered, fixed camera; warm gentle cozy lighting; simple clean background.
+- Slow smooth 360° rotation with holds at front/side/back so tuft, tail tip, paws, whiskers, and ear interiors are clearly visible.
+- No fur color drift or morphing.
+
+Facial acting requirements:
+- Rich but cute: curious wide eyes, blink, slight surprise, happy contentment, focused stare, then back to curiosity.
+- Keep mouth a simple gentle curve (do not add exaggerated mouth changes).
+
+

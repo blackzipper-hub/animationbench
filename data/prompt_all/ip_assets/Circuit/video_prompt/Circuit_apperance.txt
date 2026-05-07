@@ -1,0 +1,19 @@
+Create a clean 360-degree turntable video of the robot “Circuit” to showcase canonical appearance and facial acting (eye acting).
+
+Character design must match exactly:
+- Bipedal robot with a large spherical white head and slender articulated body.
+- Two prominent circular glowing yellow eyes on the face
+- White and black panels, visible orange wiring/lights and rivets.
+- Distinct asymmetry: one arm raised while the other hangs down.
+- Flat white feet with black claw-like tips; black jointed limbs.
+
+Shot / motion requirements:
+- Full-body, centered, fixed camera, sterile futuristic studio background, cool clinical lighting.
+- Slow smooth 360° rotation with brief holds at front/side/back to show seams, ports, wiring, and limb asymmetry.
+- Keep geometry stable, no melting or design drift.
+
+Facial acting requirements (robot-appropriate):
+- Only “eye acting”: glow intensity changes, micro shifts of gaze, short scanning motions, occasional subtle “focus lock” pause.
+- Make eye acting rich and readable without adding a mouth or extra facial features.
+
+

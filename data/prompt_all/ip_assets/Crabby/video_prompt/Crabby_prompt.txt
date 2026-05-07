@@ -1,0 +1,17 @@
+You are generating a video prompt for a specific IP.
+IP_SETTING:
+ipprofilecharacternameCrabbycanonicalappearanceGeneralfeaturesAnthropomorphicredcrabwithglossyreddomedcarapacebeigeunderbellyeightarticulatedlegstwolargeclawsoversizedwhiteeyeswithblackpupilsandredrimsFrontviewTwohugewhiteeyessethighonheadbeigeunderbellywithtwosmallwhiteteethvisibletwolargeredclawsraisedsymmetricallySideviewLowroundedredbodyslopingtobeigeundersideprominentwhiteeyewithredrimoneraisedclawcompactsturdyformBackviewRoundedredcarapacewithtwolargeclawsraisedoneithersidesymmetricalrobustsilhouettecanonicalbehaviorPersonalityCuriousandalertwideopenpostureeyesfixedforwardcalmbutattentiveActionLogicSlowdeliberatemovementusinglegstopushoffsandclawsforgraspingordiggingSignatureSlowstatelywalkwithslightwobbleandbriefpausesbetweenstepsFacialActingEyesconveyexpressionremainwideandfixedsubtlytrackingmovementEnvironmentalInteractionLeavesclearlegimpressionsinsanddigsorgraspsobjectswithclaws
+
+TASK:
+Generate a single video using the IP setting above.
+Use the following action description as the core content.
+ACTION:
+Scene & actions (show environment interaction clearly):
+- Tropical beach sand with a few small props (a shell, a small pebble pile).
+- Crabby walks slowly with a stately wobble, leaving visible footprints in sand.
+- Crabby uses one claw to dig gently, uncover a shell, then uses the other claw to pick it up and examine it.
+- Crabby rotates slightly to show side/back movement while interacting; keep actions physically grounded.
+
+Object Color：
+- shell: pearlescent white with pink and orange iridescent streaks
+- small pebble pile: mix of light gray, beige, and tan colored pebbles

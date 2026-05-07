@@ -1,0 +1,18 @@
+You are generating a video prompt for a specific IP.
+IP_SETTING:
+ipprofilecharacternameFredFlintstonecanonicalappearanceGeneralfeaturesLargemuscularmanwithbroadfacelongnoseblackspikyhairtuftorangetunicwithblackspotsandjaggededgegreenneckerchiefbarefootwithlargefeetFrontviewLargewhiteeyeswithsmallpupilswideopensmileshowingteethSideviewBarrelshapedtorsothickarmslongnoseextendingforwardhairtuftvisiblebarefeetfirmlyplantedBackviewBroadbackwithuprightblackhairtuftgreenneckerchiefatneckthicklegsandlargefeetcanonicalbehaviorPersonalityLoudboisterousoptimisticconfidentandeagertoengageActionLogicReliesonbruteforceandsimplestoneagetoolsimpulsiveproblemsolvingSignatureHeavystompingwalkwithexaggeratedswaggerandhighenergyFacialActingHighlyexaggeratedexpressionsbulgingeyesandwidetoothygrinsEnvironmentalInteractionUsesforcefulmovementsstompsgroundpushesorpullsobjects
+
+TASK:
+Generate a single video using the IP setting above.
+Use the following action description as the core content.
+ACTION:
+Scene & actions (show environment interaction clearly):
+- Prehistoric rocky setting with a big stone lever and a lightweight wooden sign.
+- Fred stomps forward with a heavy swagger, points dramatically, then pushes/pulls the stone lever with both hands.
+- He then shoves a large rock aside (brute force) to “clear the path”, creating a comedic wobble.
+- Include a quick spin/turn as part of slapstick movement; keep it grounded with visible foot impacts.
+
+Object Color：
+- big stone lever: dark gray stone with brown moss patches
+- lightweight wooden sign: natural light brown wood with dark brown painted text
+- large rock: medium gray stone with white and beige mineral streaks

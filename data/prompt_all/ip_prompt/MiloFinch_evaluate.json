@@ -1,0 +1,85 @@
+{
+  "ip_profile": {
+    "character_name": "Milo Finch",
+    "canonical_appearance": {
+      "summary": "Milo Finch is a slender, anthropomorphic creature with a long snout, vibrant orange hair, and a distinctive, frayed coat. He walks with a determined stride, his features defined by a lack of a mouth and a single visible ear.",
+      "details": {
+        "front": [
+          "Does Milo have a long, elongated snout with a black nose, a single visible ear on the left side, and a wide, white eye with a black pupil?",
+          "Does he have a full head of vibrant, fiery orange hair that flows backward?",
+          "Is his body covered by a long, olive-green coat with a high collar and three black buttons down the front?",
+          "Does the coat have a distinctive, frayed hem that resembles a feathered tail?",
+          "Does he wear black tights and brown leather shoes?",
+          "Is his left arm bent with his hand tucked into his coat pocket, while his right arm is at his side, and is his posture upright and purposeful?"
+        ],
+        "side": [
+          "Is Milo's long snout and the side of his face clearly visible, with his single ear and wide, white eye?",
+          "Does his orange hair flow back over his shoulder?",
+          "Does he wear the same long, olive-green coat with a frayed hem that drapes over his body?",
+          "Is his left arm bent and held close to his body with his hand in his pocket?",
+          "Does his right arm swing naturally with his stride?",
+          "Is his posture upright, and is his gait steady and confident?"
+        ],
+        "back": [
+          "Is Milo's long snout and the back of his head visible, with vibrant orange hair flowing out and back?",
+          "Does he wear the same long, olive-green coat, which is open at the back, revealing his black tights and brown leather shoes?",
+          "Is the coat's frayed hem prominent, resembling a feathered tail?",
+          "Is his left arm at his side, and is his right arm slightly behind him, swinging with his walk?",
+          "Is his posture upright and determined?",
+          "Does the back view maintain the character's distinctive silhouette with the frayed coat hem?"
+        ]
+      }
+    },
+    "canonical_behavior": {
+      "Personality": [
+        "Is Milo Finch a character of quiet determination and focused intent?",
+        "Does his upright posture and steady gait convey a sense of purpose and resolve?",
+        "Does he move with a calm, almost meditative confidence?",
+        "Does he suggest a deep inner drive and a clear sense of his destination?",
+        "Is his expression, while devoid of a mouth, one of focused observation, with his large eye scanning the world ahead?",
+        "Combining posture, gait, and expression, can Milo effectively convey his quiet determination and focused intent?"
+      ],
+      "Action Logic": [
+        "Is Milo's primary action walking with a purposeful stride?",
+        "Does he use his long snout as a sensory organ, likely detecting scents or sounds to navigate his environment?",
+        "Does his frayed coat, resembling a tail, sway with his movement, possibly used for balance or signaling?",
+        "Is his single visible arm often used to keep his hand in his pocket, suggesting a habit of contemplation?",
+        "Does he move with a consistent, deliberate pace, indicating a character who is not in a hurry but is committed to his path?",
+        "Is the overall action logic consistent with the described purposeful walking and sensory navigation?"
+      ],
+      "Atmosphere/Vibe": [
+        "Is the atmosphere one of quiet, whimsical realism, reminiscent of a children's storybook?",
+        "Is the lighting soft and warm, with a gentle, watercolor-like background?",
+        "Does the environment suggest a calm, autumnal day?",
+        "Is the pacing slow and deliberate, focusing on the character's journey rather than any external conflict?",
+        "Is the overall vibe peaceful, contemplative, and slightly melancholic?",
+        "Does the combination of lighting, environment, and pacing create the intended quiet, whimsical, and contemplative atmosphere?"
+      ],
+      "Signature": [
+        "Is Milo's signature his unique, frayed coat that resembles a feathered tail, which sways with his gait?",
+        "Is his walk characterized by a steady, confident stride with a slight forward lean?",
+        "Is the animation style smooth and fluid, with a focus on the character's movement and the subtle details of his environment?",
+        "Is his gait unhurried but purposeful?",
+        "Does he carry himself with a quiet dignity?",
+        "Can viewers clearly identify Milo's unique movement signature through his steady stride, forward lean, and swaying coat?"
+      ],
+      "Facial Acting": [
+        "Is Milo's facial acting limited to his single, large eye, which is his primary means of expression?",
+        "Is his eye wide and expressive, capable of conveying a range of emotions from curiosity to determination?",
+        "Does he blink slowly and deliberately?",
+        "Is his gaze fixed forward, indicating his focus on his destination?",
+        "Does the lack of a mouth and other facial features create a sense of mystery and introspection?",
+        "Can Milo effectively communicate emotions solely through his eye and posture, despite the limited facial features?"
+      ],
+      "Environmental Interaction": [
+        "Does Milo interact with his environment through his senses, particularly his sense of smell?",
+        "Does his long snout constantly move, sniffing the air as he walks?",
+        "Does he not interact with objects or props in a physical way, but his presence is felt through his movement?",
+        "Does the way his coat sways contribute to his environmental presence?",
+        "Do his feet make a soft, steady sound as they contact the ground?",
+        "Is his interaction with the environment one of quiet observation and purposeful movement rather than physical manipulation?"
+      ]
+    }
+  }
+}
+

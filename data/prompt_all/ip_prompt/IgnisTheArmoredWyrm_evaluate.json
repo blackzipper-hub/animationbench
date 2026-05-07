@@ -1,0 +1,85 @@
+{
+  "ip_profile": {
+    "character_name": "Ignis the Armored Wyrm",
+    "canonical_appearance": {
+      "summary": "Ignis is a powerful, bipedal dragon with a vibrant orange and red scaled body, clad in a heavy, segmented suit of dark grey armor that covers his torso, limbs, and shoulders. He stands in a powerful, forward-leaning stance, his long, spiky tail curled behind him, and his large, membranous wings folded at his back. His head features prominent horns, a snarling expression with a wide mouth full of sharp teeth, and a single, intense green eye.",
+      "details": {
+        "front": [
+          "Does Ignis stand in a dynamic, aggressive pose with his head raised, showing a long snout, two large curved horns, and a single visible green eye?",
+          "Is his mouth open in a snarl, revealing sharp, white teeth and a red tongue?",
+          "Is his neck thick and scaled, leading to a muscular torso encased in dark grey, segmented armor?",
+          "Does the armor feature a prominent, round, silver shoulder pauldron on his right shoulder and a yellow, segmented chest plate?",
+          "Are his arms powerful, ending in large, clawed hands with three long, black claws?",
+          "Are his legs thick and muscular, covered in grey armor, with large clawed feet, and is his long tail coiled behind him with spiky, red-tipped end?"
+        ],
+        "side": [
+          "Is Ignis's head turned slightly towards the viewer with the single green eye clearly visible?",
+          "Is his body covered in a suit of dark grey, segmented armor with visible rivets and weathered, metallic texture?",
+          "Is there a large, circular silver pauldron on his shoulder, and is his long, muscular neck and yellow, segmented chest plate prominent?",
+          "Are his powerful arms bent with large, clawed hands visible?",
+          "Are his legs thick and powerful, ending in large, clawed feet?",
+          "Does his long, spiky tail curve up and over his back, ending in a red, spiky tip, and are his large wings folded neatly against his back?"
+        ],
+        "back": [
+          "Is Ignis's back broad and covered in a suit of dark grey, segmented armor with a distinct, ribbed texture?",
+          "Is the large, circular silver shoulder pauldron visible on his right shoulder?",
+          "Are his arms powerful and ending in large, clawed hands?",
+          "Is his long, muscular tail coiled behind him with a series of sharp, red spikes along its length?",
+          "Are his large, membranous wings folded back with reddish-orange membrane and dark brown veins?",
+          "Does the back view create a large, imposing silhouette?"
+        ]
+      }
+    },
+    "canonical_behavior": {
+      "Personality": [
+        "Is Ignis dominant, aggressive, and territorial throughout the video?",
+        "Does he exude a powerful and intimidating presence?",
+        "Does he stand with a low, wide stance that suggests readiness for combat?",
+        "Is his posture rigid and imposing, conveying a sense of unyielding strength?",
+        "Does he maintain a readiness to attack throughout the video?",
+        "Combining stance, posture, and presence, can Ignis effectively convey his dominant, aggressive, and territorial personality?"
+      ],
+      "Action Logic": [
+        "Does Ignis rely on overwhelming physical power and brute force to solve problems?",
+        "Does he use his massive strength to crush obstacles?",
+        "Does he use his claws to rend enemies?",
+        "Does his heavy armor absorb damage during actions?",
+        "Are his movements deliberate and powerful, designed to intimidate and dominate?",
+        "Is the problem-solving approach consistent with the described brute force and overwhelming power method?"
+      ],
+      "Atmosphere/Vibe": [
+        "Is the atmosphere high-stakes fantasy adventure throughout the video?",
+        "Is the scene lit with a bright, clear light that highlights the metallic sheen of his armor and the vibrant colors of his scales?",
+        "Does the lighting create a sense of dramatic confrontation?",
+        "Does the visual style and environment support the high-stakes fantasy adventure atmosphere?",
+        "Does the overall atmosphere convey a sense of dramatic confrontation?",
+        "Does the combination of lighting, visual design, and environment create the intended high-stakes fantasy adventure atmosphere?"
+      ],
+      "Signature": [
+        "Does Ignis have a weighty and slow movement with a deliberate gait?",
+        "Are his movements powerful and impactful, with a heavy thud on each step?",
+        "Is the animation style highly detailed and dynamic, emphasizing his strength and power?",
+        "Are the character's movements consistent with the described weighty, slow, and deliberate style?",
+        "Does the overall animation style emphasize strength and power?",
+        "Can viewers clearly identify Ignis's unique movement signature through his weighty, impactful, and powerful movements?"
+      ],
+      "Facial Acting": [
+        "Is Ignis's facial expression consistently a snarl, with his mouth open and teeth bared?",
+        "Is his single green eye wide and intense, conveying a focused and aggressive intent?",
+        "Does he show no other facial expressions throughout the video?",
+        "Does the character's facial acting remain consistent with the described snarl and intense eye?",
+        "Can Ignis effectively communicate his aggressive intent through his snarl and intense eye?",
+        "Does the overall facial acting reinforce the character's aggressive and focused demeanor?"
+      ],
+      "Environmental Interaction": [
+        "Does Ignis interact with his environment with immense force?",
+        "Can he easily smash through wooden structures?",
+        "Do his heavy footsteps create deep impressions in the ground?",
+        "Does he use his claws to grip and pull objects?",
+        "Can his wings be used to create gusts of wind?",
+        "Does the overall environmental interaction demonstrate Ignis's immense force and destructive capabilities?"
+      ]
+    }
+  }
+}
+

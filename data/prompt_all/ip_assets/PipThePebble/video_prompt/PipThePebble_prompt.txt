@@ -1,0 +1,17 @@
+You are generating a video prompt for a specific IP.
+IP_SETTING:
+ipprofilecharacternamePipthePebblecanonicalappearanceGeneralfeaturesStylizedcartoonowlwithplumpbodylargeroundheaddarkbrowneartuftslightanddarkbrownfeathersshortlegswithbrightorangefeetandclawsFrontviewLargeroundeyeswithorangeirisesandblackpupilssmallbrightorangebeakslightlyopenlightbeigefacialdiscSideviewRoundheadwithprominenteyesandeartuftsplumpbodyonewingcloseandoneslightlyraisedwalkingposeBackviewRoundbackwithdarkbrownwingsslightlyoutwardsvisibleeartuftsshorttailfeatherscanonicalbehaviorPersonalityCheerfulcuriousenergeticplayfulandfriendlypostureActionLogicMoveswithlightbouncygaitusessmallwingsforbalanceeyesscanningsurroundingsSignatureBouncywaddlingwalkwithquicklightstepsFacialActingExpressiveeyesandbeakconveyingexaggeratedemotionsEnvironmentalInteractionGentlywalksthroughenvironmentslightlydisplacingsmallobjects
+
+TASK:
+Generate a single video using the IP setting above.
+Use the following action description as the core content.
+ACTION:
+Scene & actions (show environment interaction clearly):
+- Soft grassy ground with small pebbles (scale props).
+- Pip waddles forward with a bouncy gait, wings out slightly for balance, gently nudging pebbles aside.
+- Pip pauses to look around, then hops forward a little, causing tiny pebbles/grass to shift softly.
+- Keep actions gentle and non-destructive.
+
+Object Color：
+- small pebbles: mix of light gray, white, and tan colored pebbles
+- blades of grass: vibrant green grass with yellow-green tips

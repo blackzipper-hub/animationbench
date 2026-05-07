@@ -1,0 +1,18 @@
+Create a 360-degree turntable video for “Rex the Red Fox” focusing on canonical heroic appearance and expressive facial acting.
+
+Character design must match exactly:
+- Anthropomorphic red/orange fox with cream chest and muzzle; black-tipped tufted ears; small black nose.
+- Large expressive eyes with long black lashes; charming wide smile.
+- Dramatic long flowing red cloak with high collar; fitted red vest with three buttons; bright orange trousers.
+- Black gloves to elbows; black boots; large fluffy tail with white tip.
+
+Shot / motion requirements:
+- Full-body, centered, fixed camera; cinematic heroic fantasy lighting; simple backdrop.
+- Slow smooth 360° rotation with holds at front/side/back to show cloak silhouette, high collar, vest buttons, tail tip.
+- Keep cloak and tail volume consistent, no costume drift.
+
+Facial acting requirements:
+- Very expressive eyes: playful confidence, proud grin, brief focused determination, small surprised glance, then charismatic smile.
+- Keep theatrical “hero performer” vibe.
+
+

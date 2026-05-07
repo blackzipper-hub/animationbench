@@ -1,0 +1,20 @@
+Create a 360-degree turntable video for “Zippy the Gecko” focusing on canonical appearance and expressive facial acting.
+
+Character design must match exactly:
+- Vibrant orange anthropomorphic gecko with smooth glossy finish and white underbelly.
+- Large expressive black eye with white highlight; friendly smile with small visible upper teeth.
+- Prominent spiky dorsal crest of five sharp orange spikes.
+- Long curved orange tail.
+- Seated on a black balance bike: simple black frame, black tires, five-spoke wheels; hands gripping handlebars.
+
+Shot / motion requirements:
+- Full-body, centered, fixed camera; bright clean minimalist environment; soft even lighting.
+- Slow smooth 360° rotation showing the gecko AND the bike clearly (front → side → back → side → front).
+- Pause at front/side/back to show the crest profile, tail curve, and bike structure.
+- No design drift: keep the crest at exactly five spikes, keep bike black with five-spoke wheels.
+
+Facial acting requirements:
+- Friendly playful baseline smile.
+- Add rich but consistent expressions: excited eye widening, blink, quick focused glance, delighted smile, small surprised look, then back to friendly grin.
+
+

@@ -1,0 +1,85 @@
+{
+  "ip_profile": {
+    "character_name": "Circuit",
+    "canonical_appearance": {
+      "summary": "Circuit is a bipedal robot with a large, spherical white head and a slender, articulated body. Its design features a prominent, single, glowing yellow eye on the front of its head, with a secondary sensor port on the side. The robot's body is constructed from white and black panels with visible orange wiring and rivets, and it has a distinctive asymmetry where one arm is raised while the other hangs down.",
+      "details": {
+        "front": [
+          "Does the robot stand facing forward with a large, white, spherical head dominating the frame?",
+          "Is a single, large, circular, glowing yellow eye positioned on its face?",
+          "Is the body slender with a white torso and black jointed limbs?",
+          "Is the left arm raised while the right arm hangs down, showing the distinctive asymmetry?",
+          "Are the hands multi-fingered and black and white, and the legs straight with white and black joints?",
+          "Are orange lights visible on the torso, arms, and legs, and are the feet flat and white with black claws?"
+        ],
+        "side": [
+          "Is the robot's asymmetrical posture clearly visible from the side profile?",
+          "Is the left arm raised high and bent at the elbow, while the right arm hangs down?",
+          "Is the large, spherical head tilted slightly with the single glowing yellow eye clearly visible?",
+          "Is the body slender with a white torso and black joints?",
+          "Are the legs straight and the feet flat?",
+          "Is the robot's back visible, showing white and black paneling and orange lights on the limbs?"
+        ],
+        "back": [
+          "Is the large, spherical white head clearly visible from behind?",
+          "Does the head feature a central seam and a small, circular, glowing yellow light on the right side?",
+          "Is the back of the torso visible, showing white and black paneling and orange lights on the limbs?",
+          "Are the arms positioned behind the body, with the left arm slightly raised and the right arm hanging down?",
+          "Are the legs straight and the feet flat?",
+          "Does the overall design maintain the sleek and futuristic appearance with contrast between white body and black joints?"
+        ]
+      }
+    },
+    "canonical_behavior": {
+      "Personality": [
+        "Does Circuit exhibit a curious and contemplative personality throughout the video?",
+        "Is the robot's posture upright and alert, suggesting a constant state of observation?",
+        "Does the raised arm indicate a readiness to interact, while the lowered arm suggests a moment of pause or thought?",
+        "Does the single glowing eye convey a sense of focused intelligence and a lack of emotional expression?",
+        "Does the character maintain a calm and analytical presence throughout the video?",
+        "Combining posture, arm positions, and eye behavior, can Circuit effectively convey its curious, contemplative, and analytical personality?"
+      ],
+      "Action Logic": [
+        "Does Circuit solve problems by first analyzing the environment with its single eye before taking action?",
+        "Does the robot use its articulated limbs to manipulate objects or navigate obstacles after analysis?",
+        "Are the robot's movements precise and deliberate, with a focus on efficiency?",
+        "Does the raised arm allow Circuit to reach and interact with objects at a higher level?",
+        "Does the lowered arm provide stability and balance during actions?",
+        "Is the problem-solving approach consistent with the described method of analysis followed by precise manipulation?"
+      ],
+      "Atmosphere/Vibe": [
+        "Is the atmosphere futuristic and sterile throughout the video?",
+        "Is the lighting cool and clinical, emphasizing the robot's sleek design?",
+        "Is the pacing slow and methodical, reflecting the robot's deliberate nature?",
+        "Does the overall vibe convey a sense of advanced technology and quiet observation?",
+        "Does the visual style and environment support the futuristic and sterile atmosphere?",
+        "Does the combination of lighting, pacing, and visual design create the intended atmosphere of advanced technology and quiet observation?"
+      ],
+      "Signature": [
+        "Does Circuit move with a smooth, gliding motion as described?",
+        "Do the robot's legs propel it forward with a slight bounce?",
+        "Do the arms move in a coordinated fashion, with the raised arm often leading the way?",
+        "Is the animation style clean and precise, with a focus on the robot's mechanical details?",
+        "Are the character's movements consistent with the described smooth, gliding motion with slight bounce?",
+        "Can viewers clearly identify Circuit's unique movement signature through its gait, arm coordination, and mechanical precision?"
+      ],
+      "Facial Acting": [
+        "Is Circuit's facial acting limited to the movement of its single glowing eye?",
+        "Does the eye shift slightly to follow objects or people throughout the video?",
+        "Does the intensity of the glow change to indicate different states of focus or alertness?",
+        "Is there no other facial expression, as the robot lacks a mouth or other features?",
+        "Does the character's facial acting remain consistent with the described limited but expressive eye movement?",
+        "Can Circuit effectively communicate its state of focus and alertness through eye movement and glow intensity alone?"
+      ],
+      "Environmental Interaction": [
+        "Does Circuit interact with its environment by using its hands to grasp and manipulate objects?",
+        "Can the robot reach and touch surfaces with its multi-fingered hands?",
+        "Do the robot's feet provide a stable base for movement?",
+        "Do the robot's sensors allow it to detect and respond to changes in its surroundings, such as obstacles or changes in light?",
+        "Are the character's interactions with objects and surroundings consistent with using hands for manipulation?",
+        "Does the overall environmental interaction demonstrate Circuit's sensor-based awareness and precise manipulation capabilities?"
+      ]
+    }
+  }
+}
+

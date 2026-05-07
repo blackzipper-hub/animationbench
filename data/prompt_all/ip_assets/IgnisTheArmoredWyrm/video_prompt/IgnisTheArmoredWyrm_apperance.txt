@@ -1,0 +1,21 @@
+Create a 360-degree turntable video for “Ignis the Armored Wyrm” focusing on canonical appearance and aggressive facial acting.
+
+Character design must match exactly:
+- Powerful bipedal dragon with vibrant orange/red scales.
+- Heavy segmented dark grey armor on torso/limbs/shoulders; visible rivets/weathered metal texture.
+- Right shoulder has a prominent round silver pauldron; chest has a yellow segmented plate.
+- Two large curved horns; long snout; single intense green eye.
+- Mouth open in a snarl showing sharp white teeth and red tongue.
+- Large leathery wings folded at back (reddish-orange membrane with dark veins).
+- Long prehensile spiky tail ending with a red-tipped spiky tip.
+
+Shot / motion requirements:
+- Full-body, centered, fixed camera; bright high-stakes fantasy lighting to show armor sheen and scale colors.
+- Slow smooth 360° rotation with strong holds at front/side/back to show armor segmentation, wings silhouette, tail spikes, pauldron and chest plate.
+- Keep proportions stable; no armor changes.
+
+Facial acting requirements:
+- Aggressive baseline: snarling mouth, intense eye.
+- Add rich but consistent variations: brief tighter snarl, eye narrowing/focus, quick glare shift, short breath flare, then back to snarl.
+
+

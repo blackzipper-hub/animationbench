@@ -1,0 +1,85 @@
+{
+  "ip_profile": {
+    "character_name": "Pip the Pebble",
+    "canonical_appearance": {
+      "summary": "A stylized, 3D-rendered cartoon owl with a round, plump body, large expressive eyes, and a cheerful demeanor, depicted in three views showing its front, side, and back.",
+      "details": {
+        "front": [
+          "Does the owl have a large, round head with prominent, dark brown, feathered ear tufts that stand upright?",
+          "Is its face framed by a light beige facial disc, and does it have enormous, round eyes with black pupils, bright orange irises, and white highlights?",
+          "Does it have a small, sharp, bright orange beak that is slightly open, revealing a hint of a red tongue?",
+          "Is the body a plump, rounded sphere covered in soft-looking, light brown feathers on the belly and darker brown feathers on the back and wings?",
+          "Are its wings small and tucked close to its body?",
+          "Are the legs short and stout, with bright orange feet and sharp claws, and does the overall texture appear smooth and plush?"
+        ],
+        "side": [
+          "Is the owl's large, round head and massive eyes clearly visible, with the ear tufts and the curve of the head prominent?",
+          "Does the plump body taper slightly towards the back?",
+          "Is its left wing held close, while the right wing is slightly raised?",
+          "Is the left leg forward and the right leg back, in a dynamic walking pose?",
+          "Are the bright orange feet and claws clearly defined?",
+          "Does the side view maintain the character's rounded form and smooth texture?"
+        ],
+        "back": [
+          "Is the owl's round, plump back clearly visible from behind?",
+          "Are the two large, dark brown wings held slightly outwards?",
+          "Are the feathered ear tufts visible at the top of the head?",
+          "Are the tail feathers short and dark?",
+          "Are the two bright orange legs visible, with the left leg lifted in a walking motion?",
+          "Is the overall shape a smooth, rounded sphere, emphasizing its chubby and compact build?"
+        ]
+      }
+    },
+    "canonical_behavior": {
+      "Personality": [
+        "Is Pip cheerful, curious, and energetic throughout the video?",
+        "Does the character exude a playful and friendly presence?",
+        "Does the character have an open and engaging posture that suggests a welcoming nature?",
+        "Is the character's overall demeanor consistent with being cheerful, curious, and energetic?",
+        "Does the character maintain a welcoming and engaging presence?",
+        "Combining posture, energy level, and demeanor, can Pip effectively convey its cheerful, curious, and energetic personality?"
+      ],
+      "Action Logic": [
+        "Does the character move with a light, bouncy gait, using its small wings for balance rather than flight?",
+        "Does the character navigate its environment by walking?",
+        "Are the large eyes constantly scanning its surroundings?",
+        "Does the character react to stimuli with immediate, expressive changes in its facial features, particularly its eyes and beak?",
+        "Are the character's movements consistent with the described light, bouncy gait?",
+        "Is the problem-solving approach consistent with the described direct physical interaction and expressive reactions?"
+      ],
+      "Atmosphere/Vibe": [
+        "Is the atmosphere whimsical and heartwarming throughout the video?",
+        "Is the scene set in a bright, soft-lit environment with a neutral, warm background?",
+        "Does the environment create a gentle and inviting atmosphere?",
+        "Is the pacing slow and deliberate, emphasizing the character's movements and expressions?",
+        "Does the visual style and environment support the whimsical and heartwarming atmosphere?",
+        "Does the combination of lighting, environment, and pacing create the intended whimsical and heartwarming atmosphere?"
+      ],
+      "Signature": [
+        "Does Pip have a distinctive, bouncy, and slightly waddling gait?",
+        "Are the character's movements characterized by a light, quick pace, with a noticeable bounce in each step?",
+        "Is the animation style smooth and fluid, with a focus on exaggerated, appealing motions?",
+        "Are the character's movements consistent with the described bouncy and waddling gait?",
+        "Does the overall animation style emphasize exaggerated, appealing motions?",
+        "Can viewers clearly identify Pip's unique movement signature through its bouncy, waddling gait and quick pace?"
+      ],
+      "Facial Acting": [
+        "Are the character's facial expressions highly dynamic and centered on its eyes and beak?",
+        "Are the eyes large and expressive, capable of conveying a wide range of emotions through subtle shifts in the pupil and the reflection of light?",
+        "Does the beak open and close to form a simple, joyful smile?",
+        "Can the eyes widen or narrow to show surprise, excitement, or contentment?",
+        "Are the reactions immediate and exaggerated for comedic and emotional effect?",
+        "Can Pip effectively communicate a wide range of emotions through its dynamic facial expressions?"
+      ],
+      "Environmental Interaction": [
+        "Does the character interact with its environment by walking through it?",
+        "Does the character cause small, scattered pebbles and blades of grass to be displaced with each step?",
+        "Is the interaction gentle and non-destructive, emphasizing the character's light touch?",
+        "Does the ground appear soft and pliable, responding to the character's steps?",
+        "Are the pebbles and grass simple props that add texture and a sense of scale to the scene?",
+        "Does the overall environmental interaction demonstrate Pip's gentle, light touch and the soft, pliable nature of the ground?"
+      ]
+    }
+  }
+}
+

@@ -1,0 +1,19 @@
+A 360-degree turntable video for “Gerry the Giraffe” focusing on canonical appearance and gentle expressive facial acting.
+
+Character design must match exactly:
+- Bright yellow-orange giraffe with irregular dark brown spots.
+- Large expressive white eyes with black pupils; small upturned red smile; red nostrils.
+- Two dark brown tufted ossicones; large pointed ears (yellow with orange interior).
+- Long straight neck; plump rounded body; four long slender legs; dark brown hooves.
+- Short tail with dark tuft; subtle dark spiky mane down the neck visible from back.
+
+Shot / motion requirements:
+- Full-body, centered, fixed camera; bright cheerful whimsical lighting.
+- Slow smooth 360° rotation with clear holds at front/side/back to show spots, ossicones, mane, tail tuft, and hooves.
+- Keep shape smooth and rounded; no sharp angles added.
+
+Facial acting requirements:
+- Gentle, friendly expression baseline.
+- Add subtle but rich eye acting: slow blinks, mild eye widening for curiosity, small gaze shifts, soft smile holds.
+
+

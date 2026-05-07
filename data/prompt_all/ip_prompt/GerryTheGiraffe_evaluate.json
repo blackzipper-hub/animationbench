@@ -1,0 +1,85 @@
+{
+  "ip_profile": {
+    "character_name": "Gerry the Giraffe",
+    "canonical_appearance": {
+      "summary": "A stylized, anthropomorphic giraffe with a bright yellow-orange body, large white eyes, and distinct brown spots. The character has a friendly, smiling expression, small tufted ossicones, and a short tail with a dark tuft.",
+      "details": {
+        "front": [
+          "Does Gerry stand facing forward with a wide, symmetrical stance?",
+          "Is its head large and round, with two prominent, dark brown, tufted ossicones on top?",
+          "Does its face feature large, expressive white eyes with black pupils, giving it a wide-eyed, innocent look, and a small, upturned red smile on its snout?",
+          "Is the neck long and straight, covered in a pattern of irregular, dark brown spots on a yellow-orange background?",
+          "Is the body plump and rounded, with four long, slender legs that are a slightly darker shade of orange, and dark brown hooves?",
+          "Does a short, dark brown tufted tail hang down behind the hind legs, and are the ears large, pointed, and yellow with an orange interior?"
+        ],
+        "side": [
+          "Is Gerry's long neck extending from the body in a smooth, gentle curve from the side profile?",
+          "Is the head turned slightly forward, showing the profile of the snout, eye, and ossicones?",
+          "Is the body a continuous, elongated shape, with the legs positioned under the body?",
+          "Is the tail, with its dark tuft, visible behind the hindquarters?",
+          "Does the spotted pattern cover the entire visible surface of the body and neck?",
+          "Is the overall form smooth and rounded, with no sharp angles?"
+        ],
+        "back": [
+          "Are Gerry's rounded hindquarters and the base of its long neck visible from behind?",
+          "Is the back smooth and rounded, with a subtle, dark brown, spiky mane running down the neck?",
+          "Does the tail, with its dark brown tuft, hang down and curve slightly to the side?",
+          "Are the hind legs visible, and are the hooves dark brown?",
+          "Is the body plump?",
+          "Is the overall shape symmetrical and compact from this angle?"
+        ]
+      }
+    },
+    "canonical_behavior": {
+      "Personality": [
+        "Is Gerry cheerful, gentle, and curious throughout the video?",
+        "Is his posture upright and confident, but his wide eyes and slight smile convey a sense of innocence and friendliness?",
+        "Does he appear calm and approachable, with a gentle presence that is both reassuring and engaging?",
+        "Is the character's overall demeanor consistent with being cheerful, gentle, and curious?",
+        "Does the character maintain a calm and approachable presence?",
+        "Combining posture, expression, and presence, can Gerry effectively convey his cheerful, gentle, and curious personality?"
+      ],
+      "Action Logic": [
+        "Does Gerry's long neck allow him to survey his surroundings from a high vantage point?",
+        "Does he use his height to see over obstacles and to reach objects that are out of reach for other creatures?",
+        "Are his movements deliberate and graceful, with a slow, deliberate gait that emphasizes his height and calm demeanor?",
+        "Are the character's problem-solving methods consistent with using height and long neck for observation and reaching?",
+        "Does the character use deliberate and graceful movements?",
+        "Is the overall action logic consistent with using height and deliberate movement to solve problems?"
+      ],
+      "Atmosphere/Vibe": [
+        "Is the atmosphere bright, cheerful, and whimsical throughout the video?",
+        "Is the lighting soft and even, creating a warm and inviting environment?",
+        "Is the pacing relaxed and unhurried, suitable for a children's story or a lighthearted animated short?",
+        "Does the visual style and environment support the bright, cheerful, and whimsical atmosphere?",
+        "Does the overall atmosphere create a warm and inviting feeling?",
+        "Does the combination of lighting, pacing, and visual style create the intended bright, cheerful, and whimsical atmosphere?"
+      ],
+      "Signature": [
+        "Is Gerry's signature his slow, deliberate, and graceful gait?",
+        "Does he move with a gentle sway, his long neck bobbing slightly with each step?",
+        "Is his animation style smooth and fluid, with a focus on clean lines and bright, saturated colors?",
+        "Are the character's movements consistent with the described slow, deliberate, and graceful style?",
+        "Does the overall animation style emphasize clean lines and bright colors?",
+        "Can viewers clearly identify Gerry's unique movement signature through his slow, graceful gait and neck bobbing?"
+      ],
+      "Facial Acting": [
+        "Are Gerry's facial expressions simple but effective?",
+        "Are his large eyes the primary focus, capable of conveying a wide range of emotions through subtle changes in size and position?",
+        "Does he blink slowly and deliberately?",
+        "Does his smile remain constant, even when his eyes widen in surprise or excitement?",
+        "Does the character's facial acting remain consistent with the described simple but effective style?",
+        "Can Gerry effectively communicate his emotions through his large, expressive eyes and constant smile?"
+      ],
+      "Environmental Interaction": [
+        "Does Gerry interact with his environment by using his height to reach for leaves on tall trees or to look over fences?",
+        "Does he gently touch objects with his long neck?",
+        "Do his hooves make soft, quiet sounds as he walks?",
+        "Is he careful not to knock over anything with his long legs?",
+        "Are the character's interactions with the environment consistent with using height and gentle touch?",
+        "Does the overall environmental interaction demonstrate Gerry's careful and gentle approach?"
+      ]
+    }
+  }
+}
+

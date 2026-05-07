@@ -1,0 +1,19 @@
+A 360-degree turntable showcase video for “Crabby” focusing on canonical appearance and eye-based facial acting.
+
+Character design must match exactly:
+- Bright stylized anthropomorphic red crab with smooth glossy carapace.
+- Oversized spherical white eyes with black pupils and thin red rim.
+- Beige underbelly with two small protruding white teeth.
+- Eight articulated legs and two large prominent red claws.
+- Bright cartoonish 3D style.
+
+Shot / motion requirements:
+- Full-body, centered, fixed camera; bright sunny beach-style lighting; clean background.
+- Slow smooth 360° rotation with clear pauses at front/side/back to show claws, legs, teeth, and carapace shape.
+- No design drift; keep gloss/material consistent.
+
+Facial acting requirements:
+- Eyes are the main expression: wide curious stare, slight pupil shifts, blink, mild squint of focus, delighted widening.
+- Keep the expression consistent with “curious and alert”.
+
+

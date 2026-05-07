@@ -1,0 +1,23 @@
+Generate an action-focused video for “Fred Flintstone” emphasizing canonical behavior + highly expressive facial acting.
+
+Canonical behavior cues to follow:
+- Loud, boisterous, optimistic; confident larger-than-life presence.
+- Impulsive brute-force problem solving; direct physical interaction.
+- Fast-paced slapstick prehistoric vibe; exaggerated squash-and-stretch.
+
+Scene & actions (show environment interaction clearly):
+- Prehistoric rocky setting with a big stone lever and a lightweight wooden sign.
+- Fred stomps forward with a heavy swagger, points dramatically, then pushes/pulls the stone lever with both hands.
+- He then shoves a large rock aside (brute force) to “clear the path”, creating a comedic wobble.
+- Include a quick spin/turn as part of slapstick movement; keep it grounded with visible foot impacts.
+
+Facial acting:
+- Rapid, exaggerated reactions: proud grin → sudden surprise (eyes bulge) → loud open-mouth shout → satisfied grin.
+- Make facial expressions clearly readable throughout the action.
+
+Object Color：
+- big stone lever: dark gray stone with brown moss patches
+- lightweight wooden sign: natural light brown wood with dark brown painted text
+- large rock: medium gray stone with white and beige mineral streaks
+
+

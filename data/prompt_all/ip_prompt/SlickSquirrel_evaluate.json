@@ -1,0 +1,85 @@
+{
+  "ip_profile": {
+    "character_name": "Slick Squirrel",
+    "canonical_appearance": {
+      "summary": "A cartoon squirrel with a confident, sly demeanor, characterized by a large, bushy tail, expressive eyes, and a wide, toothy grin. The character has a distinct, exaggerated pose with hands on hips and a strong, upright posture.",
+      "details": {
+        "front": [
+          "Does Slick Squirrel stand upright with a confident posture, hands on its hips?",
+          "Does it have large, expressive white eyes with black pupils, a wide, toothy grin showing two prominent buck teeth and a pink tongue, and a small black nose?",
+          "Is its fur primarily a rich brown on the back, head, and tail, with a creamy beige underbelly and chest?",
+          "Are the ears large and pointed, with pink interiors?",
+          "Is the tail very large, bushy, and curving over its back, ending in a tuft of hair?",
+          "Are the limbs strong and proportioned, with four-toed feet?"
+        ],
+        "side": [
+          "Does Slick Squirrel maintain the same confident pose with hands on hips from the side view?",
+          "Does the profile highlight the large, bushy tail curving up and over the back?",
+          "Is the head turned slightly forward, showing a wide, sly grin?",
+          "Are the character's large eyes visible, and is the strong, muscular build of the legs and torso apparent?",
+          "Is the cream-colored belly prominent against the brown back?",
+          "Does the side view maintain the character's confident and muscular appearance?"
+        ],
+        "back": [
+          "Is Slick Squirrel's large, bushy tail curving high over its back clearly visible from behind?",
+          "Are the character's hands on its hips, emphasizing its confident stance?",
+          "Is the back a solid brown color, with a visible spine and the base of the tail?",
+          "Is the head turned slightly to the side, revealing the profile of the ear and the back of the head?",
+          "Is the tail's fur thick and fluffy, with a distinct tuft at the end?",
+          "Does the back view maintain the character's confident and powerful silhouette?"
+        ]
+      }
+    },
+    "canonical_behavior": {
+      "Personality": [
+        "Is Slick Squirrel confident, self-assured, and sly throughout the video?",
+        "Does the character exude a sense of smugness and superiority?",
+        "Does the character often take a moment to pose and admire its own cleverness?",
+        "Is it a show-off who takes pride in its actions?",
+        "Is the character's overall demeanor consistent with being confident and self-assured?",
+        "Combining posture, expression, and demeanor, can Slick Squirrel effectively convey its confident, self-assured, and sly personality?"
+      ],
+      "Action Logic": [
+        "Does Slick Squirrel solve problems with a combination of physical agility and clever, often deceptive, tactics?",
+        "Does it use its powerful legs for quick sprints and jumps?",
+        "Does it use its large tail for balance and as a prop?",
+        "Is it a master of distraction, using its expressive face and confident demeanor to mislead opponents?",
+        "Are the character's problem-solving methods consistent with the described combination of agility and clever tactics?",
+        "Is the overall action logic consistent with using physical agility and deceptive tactics to solve problems?"
+      ],
+      "Atmosphere/Vibe": [
+        "Is the atmosphere classic 1950s-style cartoon, with fast-paced, slapstick action and a lighthearted, comedic tone?",
+        "Is the lighting bright and even, typical of traditional animation?",
+        "Does the lighting emphasize the character's exaggerated movements and expressions?",
+        "Does the visual style and environment support the classic cartoon atmosphere?",
+        "Does the overall atmosphere create a fast-paced, slapstick, and comedic feeling?",
+        "Does the combination of pacing, lighting, and visual style create the intended classic 1950s cartoon atmosphere?"
+      ],
+      "Signature": [
+        "Is Slick Squirrel's signature its confident, hands-on-hips pose, which it strikes after a successful maneuver?",
+        "Does it move with a quick, bouncy gait, often with a slight hop?",
+        "Does its large tail swish dramatically with each movement?",
+        "Are the character's movements consistent with the described quick, bouncy gait with tail swishing?",
+        "Does the overall animation style emphasize the confident pose and dramatic tail movements?",
+        "Can viewers clearly identify Slick Squirrel's unique movement signature through its confident pose, bouncy gait, and dramatic tail swishing?"
+      ],
+      "Facial Acting": [
+        "Are Slick Squirrel's facial expressions highly dynamic?",
+        "Can its eyes bulge with surprise or narrow with scheming?",
+        "Is its grin a constant, often widening into a sly smirk?",
+        "Does it react to events with a quick, sharp head turn and a change in eye direction?",
+        "Does the character's facial acting remain consistent with the described dynamic and expressive style?",
+        "Can Slick Squirrel effectively communicate its scheming and confident personality through its dynamic facial expressions?"
+      ],
+      "Environmental Interaction": [
+        "Does Slick Squirrel interact with its environment by using its tail to balance on narrow surfaces?",
+        "Does it use its powerful legs to kick objects or launch itself into the air?",
+        "Does it often use props as part of its schemes, such as using a nut as a projectile or a tree branch as a springboard?",
+        "Are the character's interactions with the environment consistent with using tail, legs, and props for tactical advantage?",
+        "Does the overall environmental interaction demonstrate Slick Squirrel's clever and tactical approach?",
+        "Can viewers observe evidence of the character's use of environment and props as part of its schemes?"
+      ]
+    }
+  }
+}
+
