@@ -1,0 +1,252 @@
+[
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "Studio Ghibli.png",
+        "prompt": "The character jumps forward on an anime-style stone road."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "A_boimimetic_robot,_with_complex_structure_and_circuits._3D_style,_in_cartoon_movie_style._0.png",
+        "prompt": "The robot character dashes ahead on an anime city street."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "eren yeager2.png",
+        "prompt": "The character explodes into action at an anime forest path entrance."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "Classic French Animation.png",
+        "prompt": "The character leaps across an open grassy field in an anime fantasy world."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "a__fire_elemental_with_flames_for_hair_and_a_warm_glow._3D_style,_no_human_elements_and_unlike_human_shape._0.png",
+        "prompt": "The elemental character surges forward on an anime village hilltop."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "A_cute_cartoon_chipmunk_with_soft_fur_is_running,_3D_style._2.png",
+        "prompt": "The chipmunk character sprints along an anime school walkway."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "80s Retro Anime2.png",
+        "prompt": "The character launches across an anime bridge."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "80s Retro Anime.png",
+        "prompt": "The character springs forward in an empty anime town square."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "Nemo.png",
+        "prompt": "The character darts along an anime countryside dirt path."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "mario.png",
+        "prompt": "The character jumps down a long anime corridor."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "Golden Age of American Animation.png",
+        "prompt": "The character charges across an anime training ground."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "Create_a_cartoon_dog_character,_with_friendly_expression,_with_detailed_fur_and_short_tail,_in_casual_clothees,_in_plain_background._3D_style._1.png",
+        "prompt": "The dog character bounds forward in an anime dojo."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "Classic French Animation2.png",
+        "prompt": "The character delivers a powerful strike in an anime martial arts setting."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "Chinese Ink Wash Animation2.png",
+        "prompt": "The character spins into action on an anime arena ground."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "A_cartoon_thin_male_adult,_whose_head_is_small_and_is_in_suqare_shape._Whole_body,_3D_effects._0.png",
+        "prompt": "The character climbs an anime training target."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "Golden Age of American Animation2.png",
+        "prompt": "The character unleashes a powerful attack on a marked anime combat circle."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "Corporate Art2.png",
+        "prompt": "The character charges across a wide anime battlefield."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "Classic American Animation2.png",
+        "prompt": "The character overcomes an anime obstacle course."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "熊猫1.png",
+        "prompt": "The panda character rolls across an anime sports field."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "师父.png",
+        "prompt": "The character leaps forward at an anime race track start."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "孙悟空.jpg",
+        "prompt": "The character explodes into motion on an anime ocean shoreline."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "哪吒2.png",
+        "prompt": "The character dashes forward beside shallow anime waters."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "xionger.png",
+        "prompt": "The character runs along an anime harbor pier."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "totoro2.png",
+        "prompt": "The character bounds across an anime river crossing."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "Sully1.png",
+        "prompt": "The character pounces down an anime snowy slope."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "satoru gojo2.jpg",
+        "prompt": "The character teleports across an icy anime plain."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "popeye.jpg",
+        "prompt": "The character charges up an anime fantasy cliff."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "son goku.jpg",
+        "prompt": "The character blasts off from an anime mountain trail base."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "simba.jpg",
+        "prompt": "The character leaps across anime sand dunes."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "rick sanchez2.jpg",
+        "prompt": "The character steps through an anime portal area."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "sailor moon2.png",
+        "prompt": "The character unleashes magic in an anime fantasy setting."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "pikachu.png",
+        "prompt": "The character delivers a thunderbolt while holding a weapon."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "peter griffin.jpg",
+        "prompt": "The character charges with clenched fists in an anime battle environment."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "Patrick.png",
+        "prompt": "The character charges at an opponent's anime arena."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "papa smurf.png",
+        "prompt": "The character casts a magic spell with a visible magic circle."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "Nick.png",
+        "prompt": "The character creates cracks in the ground on an anime battlefield."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "no face.png",
+        "prompt": "The character lunges in a defensive anime scene."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "mickey.png",
+        "prompt": "The character strikes at an anime dojo training dummy."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "Mike.png",
+        "prompt": "The character jumps across an anime city rooftop."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "kiki.png",
+        "prompt": "The character soars into a wide open anime battlefield."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "Gru.png",
+        "prompt": "The character launches a scheme along a long anime road."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "fred jones.png",
+        "prompt": "The character investigates on a flat anime platform."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "doraemon.jpg",
+        "prompt": "The character deploys an invention on a circular anime platform."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "dipper pines2.jpg",
+        "prompt": "The character embarks on an anime quest path."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "daffy duck.png",
+        "prompt": "The character charges across an anime fantasy plain."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "bugs bunny.jpg",
+        "prompt": "The character outsmarts foes on a straight anime bridge."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "ariel.png",
+        "prompt": "The character breaches an anime ocean surface."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "aladdin.jpg",
+        "prompt": "The character takes flight on an anime runway path."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "31.png",
+        "prompt": "The character activates in an anime virtual training space."
+    },
+    {
+        "image_folder": "cartoon_benchmark_testset/closed_set",
+        "image_name": "33.png",
+        "prompt": "The character charges forward on an anime world path extending ahead."
+    }
+]

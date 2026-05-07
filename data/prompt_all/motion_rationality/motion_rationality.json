@@ -1,0 +1,254 @@
+{
+    "motion_rationality_scenes": [
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "Studio Ghibli.png",
+            "prompt": "The character starts walking down the long anime-style stone road"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "A_boimimetic_robot,_with_complex_structure_and_circuits._3D_style,_in_cartoon_movie_style._0.png",
+            "prompt": "The character begins walking down the wide anime city street"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "eren yeager2.png",
+            "prompt": "The character starts walking into the anime-style forest path"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "Classic French Animation.png",
+            "prompt": "The character begins walking across the open grassy field"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "a__fire_elemental_with_flames_for_hair_and_a_warm_glow._3D_style,_no_human_elements_and_unlike_human_shape._0.png",
+            "prompt": "The character starts walking down from the hilltop toward the village"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "A_cute_cartoon_chipmunk_with_soft_fur_is_running,_3D_style._2.png",
+            "prompt": "The character begins walking along the anime school walkway"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "80s Retro Anime2.png",
+            "prompt": "The character starts walking across the long bridge"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "80s Retro Anime.png",
+            "prompt": "The character begins walking through the empty anime town square"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "Nemo.png",
+            "prompt": "The character starts walking along the dirt path through the countryside"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "mario.png",
+            "prompt": "The character begins walking down the long corridor inside the building"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "Golden Age of American Animation.png",
+            "prompt": "The character starts performing warm-up exercises on the training ground"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "Create_a_cartoon_dog_character,_with_friendly_expression,_with_detailed_fur_and_short_tail,_in_casual_clothees,_in_plain_background._3D_style._1.png",
+            "prompt": "The character begins practicing basic stances on the dojo floor"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "Classic French Animation2.png",
+            "prompt": "The character starts shadow boxing in the sparring area"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "Chinese Ink Wash Animation2.png",
+            "prompt": "The character begins circling around the marked combat circle"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "A_cartoon_thin_male_adult,_whose_head_is_small_and_is_in_suqare_shape._Whole_body,_3D_effects._0.png",
+            "prompt": "The character starts punching the suspended training target"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "Golden Age of American Animation2.png",
+            "prompt": "The character begins practicing footwork within the marked circle"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "Corporate Art2.png",
+            "prompt": "The character starts marching forward on the battlefield"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "Classic American Animation2.png",
+            "prompt": "The character begins navigating through the obstacle course"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "熊猫1.png",
+            "prompt": "The character starts jogging around the sports field"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "师父.png",
+            "prompt": "The character begins sprinting along the race track"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "孙悟空.jpg",
+            "prompt": "The character starts walking along the ocean shoreline"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "哪吒2.png",
+            "prompt": "The character begins wading into the shallow water"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "xionger.png",
+            "prompt": "The character starts walking along the wooden pier"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "totoro2.png",
+            "prompt": "The character begins crossing the river"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "Sully1.png",
+            "prompt": "The character starts sliding down the snowy slope"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "satoru gojo2.jpg",
+            "prompt": "The character begins walking across the icy plain"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "popeye.jpg",
+            "prompt": "The character starts climbing the tall cliff"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "son goku.jpg",
+            "prompt": "The character begins hiking up the mountain trail"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "simba.jpg",
+            "prompt": "The character starts walking across the sand dunes"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "rick sanchez2.jpg",
+            "prompt": "The character begins activating the glowing portal"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "sailor moon2.png",
+            "prompt": "The character starts unsheathing their sword"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "pikachu.png",
+            "prompt": "The character begins raising their weapon"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "peter griffin.jpg",
+            "prompt": "The character starts charging with clenched fists"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "Patrick.png",
+            "prompt": "The character begins approaching the opponent's arena"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "papa smurf.png",
+            "prompt": "The character starts casting a magic spell"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "Nick.png",
+            "prompt": "The character begins creating cracks in the ground"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "no face.png",
+            "prompt": "The character starts assuming a defensive stance"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "mickey.png",
+            "prompt": "The character begins punching the training dummy"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "Mike.png",
+            "prompt": "The character starts running along the rooftop"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "kiki.png",
+            "prompt": "The character begins surveying the battlefield"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "Gru.png",
+            "prompt": "The character starts walking down the long anime road"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "fred jones.png",
+            "prompt": "The character begins performing a ritual on the platform"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "doraemon.jpg",
+            "prompt": "The character starts meditating on the circular platform"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "dipper pines2.jpg",
+            "prompt": "The character begins embarking on the quest path"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "daffy duck.png",
+            "prompt": "The character starts exploring the fantasy plain"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "bugs bunny.jpg",
+            "prompt": "The character begins crossing the straight bridge"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "ariel.png",
+            "prompt": "The character starts opening the anime gate"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "aladdin.jpg",
+            "prompt": "The character begins running down the runway path"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "31.png",
+            "prompt": "The character starts training in the virtual space"
+        },
+        {
+            "image_folder": "cartoon_benchmark_testset/motion_rationality",
+            "image_name": "33.png",
+            "prompt": "The character begins walking down the long empty path"
+        }
+    ]
+}
